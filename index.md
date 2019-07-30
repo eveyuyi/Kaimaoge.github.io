@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/Wangxudong.jpg" class="floatpic" width="200" height="200">
+<img src="/images/wangxudong.jpg" class="floatpic" width="200" height="200">
 My name is Wangxudong.
 
 以下一堆堆是我的自我介绍，我的学校[MIT]。
