@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /experience/index.html
-title: Experience
+permalink: /interests/index.html
+title: Interests
 ---
 
 # Work Experience
