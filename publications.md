@@ -4,29 +4,7 @@ permalink: /publications/index.html
 title: Publications
 pubs:
 
-  - author: "Xudong Wang, Lijun Sun"
-    title: "Detecting Spatiotemporal Traffic Anomalies with Low-rank Tensor Regression"
-    month: "January"
-    year: "2020"
-    address: "Washington DC, United States"
-    booktitle: "Transportation Research Board"
-    
-  - author: "Lulu Tan, Xudong Wang, Luis F. Miranda-Moreno, Aurelie Labbe, Lijun Sun"
-    title: "Spatiotemporal Regularized Factorization for Traffic Data Imputation"
-    month: "January"
-    year: "2020"
-    address: "Washington DC, United States"
-    booktitle: "Transportation Research Board"
-    
-
-  - author: "Xudong Wang, Antoine Fagette, Pascal Sartelet, Lijun Sun"
-    title: "A Probabilistic Tensor Factorization Approach to Detect Anomalies in Spatiotemporal Traffic Activities"
-    month: "October"
-    year: "2019"
-    address: "Auckland, New Zealand"
-    booktitle: "IEEE Intelligent Transportation Systems Conference"
-
-
+### Journal
 
   - author: "Yang Li, Xudong Wang, Shuo Sun, Xiaolei Ma, Guangquan Lu"
     title: "Forecasting short-term subway passenger flow under special events scenarios using multiscale radial basis function networks"
@@ -43,10 +21,28 @@ pubs:
     booktitle: "IEEE journal of biomedical and health informatics"
     url: https://ieeexplore.ieee.org/abstract/document/7875493
 
+### Conference
 
-
- 
-
+  - author: "Xudong Wang, Lijun Sun"
+    title: "Detecting Spatiotemporal Traffic Anomalies with Low-rank Tensor Regression"
+    month: "January"
+    year: "2020"
+    address: "Washington DC, United States"
+    booktitle: "Transportation Research Board"
+    
+  - author: "Lulu Tan, Xudong Wang, Luis F. Miranda-Moreno, Aurelie Labbe, Lijun Sun"
+    title: "Spatiotemporal Regularized Factorization for Traffic Data Imputation"
+    month: "January"
+    year: "2020"
+    address: "Washington DC, United States"
+    booktitle: "Transportation Research Board"
+    
+  - author: "Xudong Wang, Antoine Fagette, Pascal Sartelet, Lijun Sun"
+    title: "A Probabilistic Tensor Factorization Approach to Detect Anomalies in Spatiotemporal Traffic Activities"
+    month: "October"
+    year: "2019"
+    address: "Auckland, New Zealand"
+    booktitle: "IEEE Intelligent Transportation Systems Conference"
 
 ---
 
