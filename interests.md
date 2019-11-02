@@ -4,7 +4,7 @@ permalink: /interests/index.html
 title: Interests
 ---
 
-# Course
+## Course
 
 ### Mathematics
 
