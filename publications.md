@@ -2,9 +2,8 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
-pubs:
-
 ### Journal
+pubs:
 
   - author: "Yang Li, Xudong Wang, Shuo Sun, Xiaolei Ma, Guangquan Lu"
     title: "Forecasting short-term subway passenger flow under special events scenarios using multiscale radial basis function networks"
