@@ -2,25 +2,8 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
-### Journal
+
 pubs:
-
-  - author: "Yang Li, Xudong Wang, Shuo Sun, Xiaolei Ma, Guangquan Lu"
-    title: "Forecasting short-term subway passenger flow under special events scenarios using multiscale radial basis function networks"
-    month: "March"
-    year: "2017"
-    booktitle: "Transportation Research Part C: Emerging Technologies"
-    url: https://www.researchgate.net/profile/Yang_Li128/publication/313670218_Forecasting_Short-term_Subway_Passenger_Flow_under_Special_Events_Scenarios_using_Multiscale_Radial_Basis_Function_Networks/links/59f89e000f7e9b553ec0b958/Forecasting-Short-term-Subway-Passenger-Flow-under-Special-Events-Scenarios-using-Multiscale-Radial-Basis-Function-Networks.pdf
-
-
-  - author: "Yang Li, Xudong Wang, Meilin Luo"
-    title: "Epileptic seizure classification of EEGs using time--frequency analysis based multiscale radial basis functions"
-    month: "September"
-    year: "2017"
-    booktitle: "IEEE journal of biomedical and health informatics"
-    url: https://ieeexplore.ieee.org/abstract/document/7875493
-
-### Conference
 
   - author: "Xudong Wang, Lijun Sun"
     title: "Detecting Spatiotemporal Traffic Anomalies with Low-rank Tensor Regression"
@@ -42,6 +25,21 @@ pubs:
     year: "2019"
     address: "Auckland, New Zealand"
     booktitle: "IEEE Intelligent Transportation Systems Conference"
+
+  - author: "Yang Li, Xudong Wang, Shuo Sun, Xiaolei Ma, Guangquan Lu"
+    title: "Forecasting short-term subway passenger flow under special events scenarios using multiscale radial basis function networks"
+    month: "March"
+    year: "2017"
+    booktitle: "Transportation Research Part C: Emerging Technologies"
+    url: https://www.researchgate.net/profile/Yang_Li128/publication/313670218_Forecasting_Short-term_Subway_Passenger_Flow_under_Special_Events_Scenarios_using_Multiscale_Radial_Basis_Function_Networks/links/59f89e000f7e9b553ec0b958/Forecasting-Short-term-Subway-Passenger-Flow-under-Special-Events-Scenarios-using-Multiscale-Radial-Basis-Function-Networks.pdf
+
+
+  - author: "Yang Li, Xudong Wang, Meilin Luo"
+    title: "Epileptic seizure classification of EEGs using time--frequency analysis based multiscale radial basis functions"
+    month: "September"
+    year: "2017"
+    booktitle: "IEEE journal of biomedical and health informatics"
+    url: https://ieeexplore.ieee.org/abstract/document/7875493
 
 ---
 
