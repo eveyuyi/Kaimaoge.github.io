@@ -3,15 +3,14 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
-    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
-    keywords: "Locu"
+  - author: "Yang Li, Xudong Wang, Meilin Luo"
+    title: "Epileptic seizure classification of EEGs using time--frequency analysis based multiscale radial basis functions"
     month: "September"
-    year: "2015"
-    address: "Kohala Coast, Hawaii"
-    booktitle: "International Conference on Very Large Data Bases"
-    url: 2015vldb-argonaut.pdf
-    bibtex: 2015vldb-argonaut.bib
+    year: "2017"
+    booktitle: "IEEE journal of biomedical and health informatics"
+    url: https://ieeexplore.ieee.org/abstract/document/7875493
+
+
 
   - key: "ding:pldi:2015"
     author: "Yufei Ding, Jason Ansel, Kalyan Veeramachaneni, Xipeng Shen, Una-May O’Reilly, Saman Amarasinghe"
