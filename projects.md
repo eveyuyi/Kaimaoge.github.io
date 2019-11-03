@@ -4,9 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-## Detecting Spatiotemporal Traffic Anomalies with Tensor Regression 
-### Supervised by Prof. Lijun Sun, McGill University
-### Date: 05/2019 - 09/2019
+### Detecting Spatiotemporal Traffic Anomalies with Tensor Regression 
+#### Supervised by Prof. Lijun Sun, McGill University
+#### Date: 05/2019 - 09/2019
 
 <img src="/images/TVART.png" class="floatpic" width="800" height="200">
 
