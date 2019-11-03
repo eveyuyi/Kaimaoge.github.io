@@ -33,12 +33,13 @@ links:
     url: /
   - title: Blogs
     url: /Blogs/
+  - title: Project
+    url: /project/
   - title: Publications
     url: /publications/
   - title: Interests
     url: /interests/
-#   - title: Experience
-#     url: /experience/
+
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
