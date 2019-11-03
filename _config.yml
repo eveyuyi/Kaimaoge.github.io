@@ -1,4 +1,4 @@
-title: Wangxudong
+title: Xudong
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,7 +6,7 @@ url:
 
 # Owner/author information
 owner:
-  name:           Wangxudong
+  name:           Xudong Wang
   avatar:         wangxudong.jpg
 #  bio:
   email:          xudong.wang2@mail.mcgill.ca
