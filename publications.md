@@ -43,7 +43,7 @@ pubs:
 
 ---
 
-# Publications
+## Publications
 
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
