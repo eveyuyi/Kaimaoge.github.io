@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 
-pubs:
+{%pubs:%}
 
   - author: "Xudong Wang, Lijun Sun"
     title: "Detecting Spatiotemporal Traffic Anomalies with Low-rank Tensor Regression"
