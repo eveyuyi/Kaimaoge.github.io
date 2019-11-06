@@ -1,5 +1,5 @@
 <img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="100" height="100"></a>
-{% if site.owner.introduction %}<p style="text-indent:0;margin-top:1.5em;"><a href="./" target="_blank"><i class=""></i> introduction</a></p>{% endif %}
+{% if site.owner.introduction %}<p style="text-indent:0;margin-top:1.5em;font-style: inherit; font-size: 0.7rem;"><a href="./" target="_blank"><i class=""></i>{{ site.owner.introduction }}</a></p>{% endif %}
 <!-- <h4>{{ site.owner.name }}</h4> -->
 <p>{{ site.owner.bio }}</p>
 {% if site.owner.email %}<p style="text-indent:0;margin-top:2.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
@@ -9,6 +9,6 @@
 {% if site.owner.linkedin %}<p style="text-indent:0;"><a href="http://linkedin.com/in/{{ site.owner.linkedin }}" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a></p>{% endif %}
 {% if site.owner.instagram %}<p style="text-indent:0;"><a href="http://instagram.com/{{ site.owner.instagram }}" target="_blank"><i class="icon-instagram"></i> Instagram</a></p>{% endif %}
 {% if site.owner.github %}<p style="text-indent:0;"><a href="http://github.com/{{ site.owner.github }}" target="_blank"><i class="icon-github"></i> Github</a></p>{% endif %}
-{% if site.owner.google_scholar %}<p style="text-indent:0;"><a href="http://scholar.google.com/{{ site.owner.google_scholar }}" target="_blank"><i class="icon-google-plus"></i> Google Scholar</a></p>{% endif %}
+{% if site.owner.google_scholar %}<p style="text-indent:0;"><a href="https://scholar.google.com/citations?user=UNLmdv4AAAAJ&hl=en" target="_blank"><i class="icon-google-plus"></i> Google Scholar</a></p>{% endif %}
 {% if site.owner.lastfm %}<p style="text-indent:0;"><a href="http://lastfm.com/{{ site.owner.lastfm }}" target="_blank"><i class="icon-lastfm"></i> Last.fm</a></p>{% endif %}
 {% if site.owner.tumblr %}<p style="text-indent:0;"><a href="http://{{ site.owner.tumblr }}.tumblr.com" target="_blank"><i class="icon-tumblr"></i> Tumblr</a></p>{% endif %}
