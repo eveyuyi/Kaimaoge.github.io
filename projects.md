@@ -4,9 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-## Detecting Spatiotemporal Traffic Anomalies with Tensor Regression 
-### Supervised by Prof. Lijun Sun, McGill University
-### Date: 05/2019 - 09/2019
+### Detecting Spatiotemporal Traffic Anomalies with Tensor Regression 
+#### Supervised by Prof. Lijun Sun, McGill University
+#### Date: 05/2019 - 09/2019
 
 A dynamic framework to model spatiotemporal traffic data to detect anomalous traffic data was proposed in this project. Instead of directly modeling the observed traffic data, we captured system dynamics and temporal dependencies by using a time-varying vector autoregressive (TVAR) model and applied a low-rank tensor structure to model the collection of evolving system matrices. The results show the superiority of the proposed model in uncovering anomalous traffic network dynamics and cannot be achieved by traditional temporal factorization models.
 
