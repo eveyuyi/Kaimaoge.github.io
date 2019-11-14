@@ -9,5 +9,11 @@ No. | Title | Year | Source
 
 | No.  |                                                          Title                                                          | Year | Source |
 |:----:|:-----------------------------------------------------------------------------------------------------------------------:|:----:|:------:|
-|   1  | [A deep learning approach to flight delay prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7778092) | 2016 |        |
+|   1  | [A deep learning approach to flight delay prediction] | 2016 |        |
 |   2  |                                       Cost-sensitive prediction of airline delays                                       |      |        |
+
+
+
+
+
+[A deep learning approach to flight delay prediction]: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7778092
