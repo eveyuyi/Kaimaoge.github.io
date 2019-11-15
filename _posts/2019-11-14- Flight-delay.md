@@ -1,7 +1,7 @@
 ## Paper List
                 
 | Index |                                       Title                                      | Year | Source |
-|:-----:| --------------------------------------------------------------------------------:|:----:|:------:|
+|:-----:| :--------------------------------------------------------------------------------|:----:|:------:|
 |   1   | [A deep learning approach to flight delay prediction]                            | 2016 |        |
 |   2   | [Cost-sensitive prediction of airline delays]                                    | 2017 |        |
 |   3   | [Propagation index on airport delays]                                            |      |        |
