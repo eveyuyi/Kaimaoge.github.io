@@ -4,9 +4,9 @@
 |:-----:| :--------------------------------------------------------------------------------|:----:|:------:|
 |   1   | [A deep learning approach to flight delay prediction]                            | 2016 |        |
 |   2   | [Cost-sensitive prediction of airline delays]                                    | 2017 |        |
-|   3   | [Propagation index on airport delays]                                            |      |        |
-|   4   | [A survival model for flight delay propagation]                                  |      |        |
-|   5   | [A Comparative Analysis of Models for Predicting Delays in Air Traffic Networks] |      |        |
+|   3   | [Propagation index on airport delays]                                            | 2019 |        |
+|   4   | [A survival model for flight delay propagation]                                  | 2012 |        |
+|   5   | [A Comparative Analysis of Models for Predicting Delays in Air Traffic Networks] | 2017 |        |
 |   6   |                                                                                  |      |        |
 
 
