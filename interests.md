@@ -14,6 +14,8 @@ title: Interests
 ### Mathematics
 
 - [3BLUE1BROWN (Chinese subtitle)](https://space.bilibili.com/88461692?from=search&seid=15451497504195071896)
+
+
 ### Machine Learning
 
 - [MIT 18.065 Matrix Method in Data Analysis, Signal Processing and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
