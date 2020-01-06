@@ -14,6 +14,7 @@ title: Interests
 ### Mathematics
 
 - [3BLUE1BROWN (Chinese subtitle)](https://space.bilibili.com/88461692?from=search&seid=15451497504195071896)
+-[Bayesian Analysis for Multivariate Dynamic Systems: the Decouple/Recouple Concept and Strategies](https://www.youtube.com/watch?v=c3Or0Hn-Xg0&list=PLg6h9_riWzEaFz0q7I6GG5AXDlrO-9SkY)
 
 
 ### Machine Learning
