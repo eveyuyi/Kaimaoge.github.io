@@ -12,6 +12,7 @@ Now, I am doing handmade crafts, (e.g., embroidery, weave) to release stress and
 
 ## News
 
+- 01/2020: I attended 99th Transportation Research Board (TRB) in Washington DC, US.
 - 10/2019: I attended IEEE ITSC in Auckland, NZ.
 - 10/2019: Two papers were accepted at 99th TRB.
 - 09/2019: I was teaching assistant of CIVE 440.
