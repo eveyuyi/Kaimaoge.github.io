@@ -6,18 +6,19 @@ url:
 
 # Owner/author information
 owner:
-  introduction: Fear not the infinity of the truth. One inch closer we move towards it, one inch of delight we shall receive from it.
-  name:           Xudong Wang
-  avatar:         wangxudong.jpg
+  introduction: 说大人，则藐之，勿视其巍巍然。堂高数仞，榱题数尺，我得志，弗为也。
+  name:           Yuankai Wu
+  avatar:         wu.jpg
 #  bio:
-  email:          xudong.wang2@mail.mcgill.ca
+  email:          yuankai.wu@mcgill.ca
+  email:          Kaimaogege@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   #facebook: Wangxudong
-  github: martina1024
+  github: Kaimaoge
   #linkedin: Wangxudong
-  instagram: strawberrydong
-  google_scholar: 1
+  instagram: 
+  google_scholar: https://scholar.google.com/citations?user=L9b-8ZwAAAAJ&hl=en
   lastfm:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -35,10 +36,8 @@ links:
     url: /
   - title: Blogs
     url: /Blogs/
-  - title: Projects
+  - title: Researches
     url: /projects/
-  - title: Publications
-    url: /publications/
   - title: Interests
     url: /interests/
 
