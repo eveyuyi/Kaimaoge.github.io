@@ -16,7 +16,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Nov. 2019: Our group's research on tensor factorization based traffic data processing is awarded by the Chinese Institute of Electronics [(CIE)](https://www.cie-info.org.cn/).
 
-- Jan. 2020: I received a Postdoc Scholarship from The Institute for Data Valorization [(IVADO)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). I am now co-supervised by [Aurelie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html).
+- Jan. 2020: I received a Postdoc Funding from The Institute for Data Valorization [(IVADO)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). I am now co-supervised by [Aurelie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html).
 
 - Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted [Energy](https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5). 
 
@@ -36,7 +36,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Wu, Y., Tan, H., Peng, J., Zhang, H., & He, H. (2019). Deep reinforcement learning of energy management with continuous control strategy and traffic information for a series-parallel plug-in hybrid electric bus. Applied Energy, 247, 454-466.
 
--  Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B. (2016). Short-term traffic prediction based on dynamic tensor completion. IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
+- Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B. (2016). Short-term traffic prediction based on dynamic tensor completion. IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
 
 - Wu, Y., Tan, H., Chen, X., & Ran, B. (2019). Memory, attention and prediction: a deep learning architecture for car-following. Transportmetrica B: Transport Dynamics, 7(1), 1553-1571.
                                         
