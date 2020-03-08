@@ -10,16 +10,35 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 ## News
 
-Oct. 2019. Our paper "Tensor-Based OD Matrix Completion" is acceptted for presnetation in Transportation Research Board 2020.
+- Oct. 2019: Our paper "Tensor-Based OD Matrix Completion" is acceptted for presnetation in Transportation Research Board 2020.
 
-Oct. 2019. Dr. Wu gives a talk on control methods for connected & automated vehicle highway systems in Hunan University with [Dr. Fan Li's group](http://grjl.hnu.edu.cn/p/28AD870F5105F4BE7365891656C36677).
+- Oct. 2019: Dr. Wu gives a talk on control methods for connected & automated vehicle highway systems in Hunan University with [Dr. Fan Li's group](http://grjl.hnu.edu.cn/p/28AD870F5105F4BE7365891656C36677).
 
-Nov. 2019. Our group's research on tensor factorization based traffic data processing is awarded by the Chinese Institute of Electronics [(CIE)](https://www.cie-info.org.cn/).
+- Nov. 2019: Our group's research on tensor factorization based traffic data processing is awarded by the Chinese Institute of Electronics [(CIE)](https://www.cie-info.org.cn/).
 
-Jan. 2020. I received a Postdoc Scholarship from THE INSTITUTE FOR DATA VALORIZATION [(IVADO)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
+- Jan. 2020: I received a Postdoc Scholarship from THE INSTITUTE FOR DATA VALORIZATION [(IVADO)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
 
-Mar. 2020. A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted [Energy](https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5). 
+- Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted [Energy](https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5). 
 
+## Rsearch Interests
+
+- Spatiotemporal data modeling 
+
+- Data-driven traffic and vehicle control
+
+- Connected & Automated Vehicle
+
+## Selected Publications
+
+- Wu, Y., Tan, H., Qin, L., Ran, B., & Jiang, Z. (2018). A hybrid deep learning based traffic flow prediction method and its understanding. Transportation Research Part C: Emerging Technologies, 90, 166-180.
+
+- Wu, Y., Tan, H., Li, Y., Zhang, J., & Chen, X. (2018). A fused CP factorization method for incomplete tensors. IEEE transactions on neural networks and learning systems, 30(3), 751-764. [code](https://github.com/Kaimaoge/Tensor-decomposition-completion-and-recovery-papers-and-codes/tree/master/NonnegativeFCP)
+
+- Wu, Y., Tan, H., Peng, J., Zhang, H., & He, H. (2019). Deep reinforcement learning of energy management with continuous control strategy and traffic information for a series-parallel plug-in hybrid electric bus. Applied Energy, 247, 454-466.
+
+-  Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B. (2016). Short-term traffic prediction based on dynamic tensor completion. IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
+
+- Wu, Y., Tan, H., Chen, X., & Ran, B. (2019). Memory, attention and prediction: a deep learning architecture for car-following. Transportmetrica B: Transport Dynamics, 7(1), 1553-1571.
                                         
                                         
                                        
