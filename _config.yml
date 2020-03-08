@@ -1,4 +1,4 @@
-title: Xudong
+title: Yuankai
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
@@ -10,8 +10,7 @@ owner:
   name:           Yuankai Wu
   avatar:         wu.jpg
 #  bio:
-  bio: |
-        Postdoc Researhcer <br>
+  bio: |Postdoc Researhcer <br>
         Civil Engineering <br>
         McGill University <br>
         <br>
