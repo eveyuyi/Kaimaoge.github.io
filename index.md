@@ -4,19 +4,23 @@ layout: page
 
 ## About Me
 
-I am a second-year PhD student of Transportation Engineering at McGill University. I received my master degree in Automation from Beihang University, and earned a Bachelor degree in Sichuan University. My current research centers on anomaly detection in spatiotemporal traffic data by low rank decomposition.
+I am now a Postdoctoral Researcher with [Dr. Lijun Sun's group](https://lijunsun.github.io/) in the Department of Civil Engineering and Applied Mechanics of McGiil University. I received the Ph.D. degree in vehicle operation engineering from Beijing Institute of Technology, Beijing, China, in Jun. 2019. I was a visiting PhD student with Department of Civil and Environmental Engineering, University of Wisconsin-Madison, from Nov. 2016 to Dec. 2017. During this time, I'm doing research on connected & autmated vehicles with [Prof. Bin Ran](https://directory.engr.wisc.edu/cee/faculty/ran_bin). 
 
-I am a big sports enthusiast. I love mannnnnny sports, especailly running, hiking and badminton. Yuzuru Hanyu is my Prince Charming :) I am also study Chinese musical instrument Guzheng for many years. Sports and music are vital parts of my life.
-
-Now, I am doing handmade crafts, (e.g., embroidery, weave) to release stress and achieve my inner peace.
+My research has focused on various machine learning technologies, e.g., tensor decomposition, graph convolutional neural networks, deep reinforcement learning, with the aim to facilitate the applications on intelligent transportation systems. My goal is to improve the efficiency, environmental-friendness and safety of transportation system via data-driven approaches.The novel applications in transportation engineerwill also be explored to provide new insights into machine learning methods.
 
 ## News
 
-- 01/2020: I attended 99th Transportation Research Board (TRB) in Washington DC, US.
-- 10/2019: I attended IEEE ITSC in Auckland, NZ.
-- 10/2019: Two papers were accepted at 99th TRB.
-- 09/2019: I was teaching assistant of CIVE 440.
-- 06/2019: Paper *A Probabilistic Tensor Factorization Approach to Detect Anomalies in Spatiotemporal Traffic Activities* was accepted at IEEE ITSC.
-- 03/2019: I was selected to attend DLRL Summer School in Alberta, Canada.
-- 01/2019: I attended 98th Transportation Research Board (TRB) in Washington DC, US.
-- 09/2018: I joined as the first group member in [Lijun's group](https://lijunsun.github.io/). 
+Oct. 2019. Our paper "Tensor-Based OD Matrix Completion" is acceptted for presnetation in Transportation Research Board 2020.
+
+Oct. 2019. Dr. Wu gives a talk on control methods for connected & automated vehicle highway systems in Hunan University with [Dr. Fan Li's group]("http://grjl.hnu.edu.cn/p/28AD870F5105F4BE7365891656C36677").
+
+Nov. 2019. Our group's research on tensor factorization based traffic data processing is awarded by the Chinese Institute of Electronics [(CIE)]("https://www.cie-info.org.cn/").
+
+Jan. 2020. I received a Postdoc Scholarship from THE INSTITUTE FOR DATA VALORIZATION [(IVADO)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/).
+
+Mar. 2020. A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted [Energy]("https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5"). 
+
+                                        
+                                        
+                                       
+                                        
