@@ -10,6 +10,15 @@ owner:
   name:           Yuankai Wu
   avatar:         wu.jpg
 #  bio:
+  bio: |
+        Postdoc Researhcer <br>
+        Civil Engineering <br>
+        McGill University <br>
+        <br>
+        817 Sherbrooke St. W. <br>
+        Macdonald ENG BLDG 278C <br>
+        Montreal, QC H3A 0C3, Canada <br>
+  location:       "Montreal, Canada"
   email:          yuankai.wu@mcgill.ca
   email:          Kaimaogege@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
