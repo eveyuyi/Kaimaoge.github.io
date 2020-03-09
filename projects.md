@@ -16,6 +16,8 @@ Large volumes of spatiotemporal data are increasingly collected and studied in m
 
 ### Learning-based energy management 
 
+Fossil Fuel, as the main energy source for the vast majority of transportation, is unfortunately the main consumer of energy as well as pollutant of environment. The combination usage of fossil fuel and eco friendly energy sources is a lucrative solution to this problem. Efficient energy management of hybrid energy transportation is challenging owning to its enormous search space, multitudinous control variables and complicated driving conditions. In recent years, the deep reinforcement learning (DRL) – reinforcement learning models equipped with deep neural networks have made it possible for agents to achieve high-level control for very complex problems such as Go and StarCraft.The goal of this research is to develop nove DRL agents for hybrid energy transportation, and achieve a more eco-friendly and fuel-economical transportation systems.
+
 ![](https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/ems-min.jpg)
 
 
