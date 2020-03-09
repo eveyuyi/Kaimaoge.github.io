@@ -14,7 +14,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Oct. 2019: Dr. Wu gives a talk on control methods for connected & automated vehicle highway systems in Hunan University with [Dr. Fan Li's group](http://grjl.hnu.edu.cn/p/28AD870F5105F4BE7365891656C36677).
 
-- Nov. 2019: Our group's research on tensor factorization based traffic data processing is awarded by the Chinese Institute of Electronics [(CIE)](https://www.cie-info.org.cn/).
+- Nov. 2019: My research with [Prof. Huachun Tan](https://tc.seu.edu.cn/2019/1022/c25722a291907/page.htm) on tensor factorization based traffic data processing is awarded by the Chinese Institute of Electronics [(CIE)](https://www.cie-info.org.cn/).
 
 - Jan. 2020: I received a Postdoc Funding from The Institute for Data Valorization [(IVADO)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). I am now co-supervised by [Aurelie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html).
 
