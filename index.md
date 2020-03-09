@@ -34,6 +34,10 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Wu, Y., Tan, H., Li, Y., Zhang, J., & Chen, X. (2018). A fused CP factorization method for incomplete tensors. IEEE transactions on neural networks and learning systems, 30(3), 751-764. [code](https://github.com/Kaimaoge/Tensor-decomposition-completion-and-recovery-papers-and-codes/tree/master/NonnegativeFCP)
 
+## CV
+
+[CV in PDF](https://github.com/Kaimaoge/Kaimaoge.github.io/blob/master/files/CV.pdf)
+
 - Wu, Y., Tan, H., Peng, J., Zhang, H., & He, H. (2019). Deep reinforcement learning of energy management with continuous control strategy and traffic information for a series-parallel plug-in hybrid electric bus. Applied Energy, 247, 454-466.
 
 - Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B. (2016). Short-term traffic prediction based on dynamic tensor completion. IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
