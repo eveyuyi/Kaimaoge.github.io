@@ -16,7 +16,7 @@ Large volumes of spatiotemporal data are increasingly collected and studied in m
 
 ### Learning-based energy management 
 
-
+![](https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/ems-min.jpg)
 
 
 
