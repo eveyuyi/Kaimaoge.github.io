@@ -20,6 +20,8 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted by journal [Energy](https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5). 
 
+- MAr 2020: The [code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle) for RIDRL based EMS has been opensourced. The code is developed by [Lian Renzong](https://github.com/lryz0612) and edited by me.
+
 ## Rsearch Interests
 
 - Spatiotemporal data modeling 
