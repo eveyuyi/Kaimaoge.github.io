@@ -10,7 +10,11 @@ Large volumes of spatiotemporal data are increasingly collected and studied in m
 
 ![](https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/IVADO-figure2-min.jpg)
 
-### Reinforcement Learning for Traffic Control
+### Reinforcement Learning for Intelligent Freeway Control
+
+Cooperative intelligent freeway traffic control is an important application in intelligent transportation systems, which is expected to improve the mobility of freeway networks. We study how to achieve a cooperative control scheme of various traffic control strategies including ramp metering, differential variable speed limits and autonomous vehicle planning for improving traffic. However, the coordination of different traffic control approaches within one DRL framework is not an easy task. The first challenge is due to the difference between the control cycle of different agents. The second challenge stems from the difficulties in defining a representative reward signal for different traffic control agents. The third challenge lies in the modeling of the traffic state. We will explore a multi-agent framework to handle those challenges.
+
+![](https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/KSGCN-min.jpg)
 
 
 
