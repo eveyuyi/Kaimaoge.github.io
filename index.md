@@ -24,9 +24,9 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 ## Rsearch Interests
 
-- Spatiotemporal data modeling 
+- Spatiotemporal Data Modeling 
 
-- Data-driven traffic and vehicle control
+- Data-driven Transportation System Control
 
 - Connected & Automated Vehicle
 
