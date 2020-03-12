@@ -40,7 +40,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B. (2016). Short-term traffic prediction based on dynamic tensor completion. IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
 
-- Wu, Y., Tan, H., Chen, X., & Ran, B. (2019). Memory, attention and prediction: a deep learning architecture for car-following. Transportmetrica B: Transport Dynamics, 7(1), 1553-1571.
+- Lian, R., Peng, J., Wu, Y*., Tan, H., & Zhang, H. (2020). Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle. Energy, 117297.
 
 ## CV
 
