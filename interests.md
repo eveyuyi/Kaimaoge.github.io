@@ -19,7 +19,7 @@ title: Interests
 
 - [Casale, F. P., Dalca, A., Saglietti, L., Listgarten, J., & Fusi, N. (2018). Gaussian process prior variational autoencoders. In Advances in Neural Information Processing Systems (pp. 10369-10380).](https://papers.nips.cc/paper/8238-gaussian-process-prior-variational-autoencoders.pdf)
 
--[Doersch, C. (2016). Tutorial on variational autoencoders. arXiv preprint arXiv:1606.05908.](https://arxiv.org/pdf/1606.05908.pdf%20http://arxiv.org/abs/1606.05908.pdf)
+- [Doersch, C. (2016). Tutorial on variational autoencoders. arXiv preprint arXiv:1606.05908.](https://arxiv.org/pdf/1606.05908.pdf%20http://arxiv.org/abs/1606.05908.pdf)
 
 ## Reading blogs
 
