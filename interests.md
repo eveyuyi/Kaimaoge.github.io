@@ -6,6 +6,7 @@ title: Interests
 
 ## Philosophy
 - Alan watts: [life is purposelessness](https://www.youtube.com/watch?v=21RwqnB8GrE)
+- Principles by Ray Dalio
 
 ## Cosmology
 - Seth Lloyd: The universe is a [quantum computer](https://www.youtube.com/watch?v=Qu6Mh2pX9OI)
@@ -17,11 +18,15 @@ title: Interests
 
 ## Reading Papers
 
+### Variational Autoencoders
+
 - [Casale, F. P., Dalca, A., Saglietti, L., Listgarten, J., & Fusi, N. (2018). Gaussian process prior variational autoencoders. In Advances in Neural Information Processing Systems (pp. 10369-10380).](https://papers.nips.cc/paper/8238-gaussian-process-prior-variational-autoencoders.pdf)
 
 - [Doersch, C. (2016). Tutorial on variational autoencoders. arXiv preprint arXiv:1606.05908.](https://arxiv.org/pdf/1606.05908.pdf%20http://arxiv.org/abs/1606.05908.pdf)
 
 ## Reading blogs
+
+### Variational Autoencoders
 
 - [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
   
