@@ -34,8 +34,6 @@ title: Interests
   
 ## Visitors
 
-<a href="https://clustrmaps.com/site/1b5hp" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=6DHnM19h01VEFhN144i9ufWVCbC3yVS_56I7wQ-lpVI&cl=ffffff" style="zoom:300%" ></a>
-
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=6DHnM19h01VEFhN144i9ufWVCbC3yVS_56I7wQ-lpVI&cl=ffffff&w=a"></script>
 
 
