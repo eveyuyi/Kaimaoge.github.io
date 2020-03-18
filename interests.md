@@ -28,7 +28,9 @@ title: Interests
 
 - [Ying, Z., You, J., Morris, C., Ren, X., Hamilton, W., & Leskovec, J. (2018). Hierarchical graph representation learning with differentiable pooling. In Advances in neural information processing systems (pp. 4800-4810).](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
 
+### Transportation
 
+- [Han, K., Eve, G., & Friesz, T. L. (2019). Computing dynamic user equilibria on large-scale networks with software implementation. Networks and Spatial Economics, 19(3), 869-902.](https://link.springer.com/article/10.1007/s11067-018-9433-y)
   
 
 
