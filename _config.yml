@@ -32,11 +32,11 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Blogs
+  - title: Blog
     url: /Blogs/
-  - title: Researches
+  - title: Research
     url: /projects/
-  - title: Interests
+  - title: Interest
     url: /interests/
 
 
