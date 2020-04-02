@@ -22,7 +22,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Mar 2020: The [code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle) for RIDRL based EMS has been opensourced. The code is developed by [Lian Renzong](https://github.com/lryz0612) and edited by me.
 
-- Mar 2020: A paper titled "Traffic flow prediction with missing data imputed by tensor completion methods" has been accepted for publication in IEEE Access.
+- Mar 2020: A paper titled "Traffic flow prediction with missing data imputed by tensor completion methods" has been accepted for publication in [IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9051806).
 
 ## Rsearch Interests
 
