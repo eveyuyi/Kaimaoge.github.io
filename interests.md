@@ -28,6 +28,8 @@ title: Interests
 
 - [Ying, Z., You, J., Morris, C., Ren, X., Hamilton, W., & Leskovec, J. (2018). Hierarchical graph representation learning with differentiable pooling. In Advances in neural information processing systems (pp. 4800-4810).](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
 
+- [Grover, A., & Leskovec, J. (2016, August). node2vec: Scalable feature learning for networks. In Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 855-864).](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
+
 ### Deep Reinforcement Learning
 
 - [Henderson, P., Islam, R., Bachman, P., Pineau, J., Precup, D., & Meger, D. (2018, April). Deep reinforcement learning that matters. In Thirty-Second AAAI Conference on Artificial Intelligence.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16669)
