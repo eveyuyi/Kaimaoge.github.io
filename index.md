@@ -24,6 +24,8 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Mar 2020: A paper titled "Traffic flow prediction with missing data imputed by tensor completion methods" has been accepted for publication in [IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9051806).
 
+- Apr 2020: A paper titled "Differential Variable Speed Limits Control for Freeway Recurrent Bottlenecks via Deep Actor-critic Algorithm" has been accepted for publication in Transportation Research Part C.
+
 ## Rsearch Interests
 
 - Spatiotemporal Data Modeling 
