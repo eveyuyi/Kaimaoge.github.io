@@ -20,11 +20,11 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted by journal [Energy](https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5). 
 
-- Mar 2020: The [code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle) for RIDRL based EMS has been opensourced. The code is developed by [Lian Renzong](https://github.com/lryz0612) and edited by me.
+- Mar. 2020: The [code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle) for RIDRL based EMS has been opensourced. The code is developed by [Lian Renzong](https://github.com/lryz0612) and edited by me.
 
-- Mar 2020: A paper titled "Traffic flow prediction with missing data imputed by tensor completion methods" has been accepted for publication in [IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9051806).
+- Mar. 2020: A paper titled "Traffic flow prediction with missing data imputed by tensor completion methods" has been accepted for publication in [IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9051806).
 
-- Apr 2020: A paper titled "Differential Variable Speed Limits Control for Freeway Recurrent Bottlenecks via Deep Actor-critic Algorithm" has been accepted for publication in Transportation Research Part C.
+- Apr. 2020: A paper titled "Differential Variable Speed Limits Control for Freeway Recurrent Bottlenecks via Deep Actor-critic Algorithm" has been accepted for publication in Transportation Research Part C.
 
 ## Rsearch Interests
 
