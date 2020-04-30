@@ -38,10 +38,14 @@ title: Interests
 
 - [Sen, R., Yu, H. F., & Dhillon, I. S. (2019). Think globally, act locally: A deep neural network approach to high-dimensional time series forecasting. In Advances in Neural Information Processing Systems.](http://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting)
 
+- [Jiang, J., Dun, C., & Lu, Z. (2018). Graph convolutional reinforcement learning for multi-agent cooperation. arXiv preprint arXiv:1810.09202, 2(3).](https://z0ngqing.github.io/paper/preprint-jiechuan18.pdf)
+
 
 ### Transportation
 
 - [Han, K., Eve, G., & Friesz, T. L. (2019). Computing dynamic user equilibria on large-scale networks with software implementation. Networks and Spatial Economics, 19(3), 869-902.](https://link.springer.com/article/10.1007/s11067-018-9433-y)
+
+- [Varaiya, P. (2013). Max pressure control of a network of signalized intersections. Transportation Research Part C: Emerging Technologies, 36, 177-195.](https://www.sciencedirect.com/science/article/pii/S0968090X13001782?casa_token=THSepaiq7o4AAAAA:Z88qyMBES5RmF1QnpgOj01dXdoKrxfikri1v6fe0UKFZMHzcuiqoTph5oVlIIpcLLyfYosyVMcU)
   
 ## Visitors
 
