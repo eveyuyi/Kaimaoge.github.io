@@ -34,7 +34,7 @@
 
 对于新冠，我们现在都还并不清楚，染病后的抗体是否会永久有效？疫苗是否能及时研发？未来它会不会多次爆发？加缪在《鼠疫》中借医生里厄之口说出了人类面对瘟疫时的一种选择**“我不知道等着我的是什么，也不知道这一切结束之后会发生什么事。就目前而言，有病人，必须治疗这些病人。”**
 
-<center> <img src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/la_pesta.jpg" style="zoom:70%" /> </center>
+<center> <img src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/la_pesta.jpg" style="zoom:90%" /> </center>
 
 不惜一切，拯救病人。这是最符合人类天性常识的正义之举。然而现实却又是复杂的，现实生活的目标是多元的，需要考虑长远，也是不断动态变化的。政治家们需要去优化各种恶样的目标，拯救眼前的生命，挽救千疮百孔的经济，解决生活的不便。
 
