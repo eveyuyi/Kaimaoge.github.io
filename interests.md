@@ -34,12 +34,11 @@ title: Interests
 
 - [Henderson, P., Islam, R., Bachman, P., Pineau, J., Precup, D., & Meger, D. (2018, April). Deep reinforcement learning that matters. In Thirty-Second AAAI Conference on Artificial Intelligence.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16669)
 
+- [Jiang, J., Dun, C., & Lu, Z. (2018). Graph convolutional reinforcement learning for multi-agent cooperation. arXiv preprint arXiv:1810.09202, 2(3).](https://z0ngqing.github.io/paper/preprint-jiechuan18.pdf)
+
 ### Matrix/Tensor Factorization
 
 - [Sen, R., Yu, H. F., & Dhillon, I. S. (2019). Think globally, act locally: A deep neural network approach to high-dimensional time series forecasting. In Advances in Neural Information Processing Systems.](http://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting)
-
-- [Jiang, J., Dun, C., & Lu, Z. (2018). Graph convolutional reinforcement learning for multi-agent cooperation. arXiv preprint arXiv:1810.09202, 2(3).](https://z0ngqing.github.io/paper/preprint-jiechuan18.pdf)
-
 
 ### Transportation
 
