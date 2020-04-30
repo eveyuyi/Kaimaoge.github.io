@@ -14,7 +14,7 @@ Large volumes of spatiotemporal data are increasingly collected and studied in m
 
 Cooperative intelligent freeway traffic control is an important application in intelligent transportation systems, which is expected to improve the mobility of freeway networks. We study how to achieve a cooperative control scheme of various traffic control strategies including ramp metering, differential variable speed limits and autonomous vehicle planning for improving traffic. However, the coordination of different traffic control approaches within one DRL framework is not an easy task. The first challenge is due to the difference between the control cycle of different agents. The second challenge stems from the difficulties in defining a representative reward signal for different traffic control agents. The third challenge lies in the modeling of the traffic state. We will explore a multi-agent learning based framework to handle those challenges.
 
-<center> <img src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/KSGCN-min.jpg" style="zoom:1%" /> </center>
+<center> <img src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/KSGCN-min.jpg" style="zoom:4%" /> </center>
 
 
 
