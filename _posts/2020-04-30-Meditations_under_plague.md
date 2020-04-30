@@ -53,5 +53,5 @@
 
 人是目的。虽然人也不清楚自己的目的是什么，寻求目的本身便是人生的目的罢。
 
-<center> <img src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/ai_cyber.jpg" style="zoom:30%" /> </center>
+<center> <img src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/ai_cyber.jpg" style="zoom:20%" /> </center>
 
