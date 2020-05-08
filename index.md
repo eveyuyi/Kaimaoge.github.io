@@ -10,6 +10,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 ## News
 
+- May. 2020: Two papers have been accepted by IEEE ITSC 2020.
 
 - Apr. 2020: A paper titled "Differential Variable Speed Limits Control for Freeway Recurrent Bottlenecks via Deep Actor-critic Algorithm" has been accepted for publication in Transportation Research Part C.
 
