@@ -48,7 +48,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Lian, R., Peng, J., Wu, Y*., Tan, H., & Zhang, H. (2020). Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle. Energy, 117297. [code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle)
 
-## CV
+## My up-to-date CV
 
 [CV in PDF](https://github.com/Kaimaoge/Kaimaoge.github.io/blob/master/files/CV.pdf)
                                         
