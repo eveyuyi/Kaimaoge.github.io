@@ -40,6 +40,8 @@ title: Interests
 
 - [Sen, R., Yu, H. F., & Dhillon, I. S. (2019). Think globally, act locally: A deep neural network approach to high-dimensional time series forecasting. In Advances in Neural Information Processing Systems.](http://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting)
 
+- [Zhang, M., & Chen, Y. (2019). Inductive matrix completion based on graph neural networks. arXiv preprint arXiv:1904.12058.](https://www.cse.wustl.edu/~ychen/public/ICLR.pdf)
+
 ### Transportation
 
 - [Han, K., Eve, G., & Friesz, T. L. (2019). Computing dynamic user equilibria on large-scale networks with software implementation. Networks and Spatial Economics, 19(3), 869-902.](https://link.springer.com/article/10.1007/s11067-018-9433-y)
