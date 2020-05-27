@@ -47,6 +47,10 @@ title: Interests
 - [Han, K., Eve, G., & Friesz, T. L. (2019). Computing dynamic user equilibria on large-scale networks with software implementation. Networks and Spatial Economics, 19(3), 869-902.](https://link.springer.com/article/10.1007/s11067-018-9433-y)
 
 - [Varaiya, P. (2013). Max pressure control of a network of signalized intersections. Transportation Research Part C: Emerging Technologies, 36, 177-195.](https://www.sciencedirect.com/science/article/pii/S0968090X13001782?casa_token=THSepaiq7o4AAAAA:Z88qyMBES5RmF1QnpgOj01dXdoKrxfikri1v6fe0UKFZMHzcuiqoTph5oVlIIpcLLyfYosyVMcU)
+
+### Spatiotemporal data
+
+- [Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8444678)
   
 ## Visitors
 
