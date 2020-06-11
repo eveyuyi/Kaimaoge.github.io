@@ -51,6 +51,8 @@ title: Interests
 ### Spatiotemporal data
 
 - [Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8444678)
+
+- [Lewenfus, G., Martins, W. A., Chatzinotas, S., & Ottersten, B. (2020). Joint Forecasting and Interpolation of Graph Signals Using Deep Learning. arXiv preprint arXiv:2006.01536.](https://arxiv.org/pdf/2006.01536.pdf)
   
 ## Visitors
 
