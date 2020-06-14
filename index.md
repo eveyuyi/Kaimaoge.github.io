@@ -50,7 +50,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B. (2016). Short-term traffic prediction based on dynamic tensor completion. IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
 
-- Tan, H., Peng, J., Li, Q., & Wu, Y*. (2020). Cross type transfer for deep reinforcement learning based hybrid electric vehicle energy management. IEEE Transactions on Vehicular Technology.
+- Lian, R., Tan, H., Peng, J., Li, Q., & Wu, Y*. (2020). Cross type transfer for deep reinforcement learning based hybrid electric vehicle energy management. IEEE Transactions on Vehicular Technology.
 
 - Lian, R., Peng, J., Wu, Y*., Tan, H., & Zhang, H. (2020). Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle. Energy, 117297. [code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle)
 
