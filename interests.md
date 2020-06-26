@@ -38,8 +38,6 @@ title: Interests
 
 ### Matrix/Tensor Factorization
 
-- [Sen, R., Yu, H. F., & Dhillon, I. S. (2019). Think globally, act locally: A deep neural network approach to high-dimensional time series forecasting. In Advances in Neural Information Processing Systems.](http://papers.nips.cc/paper/8730-think-globally-act-locally-a-deep-neural-network-approach-to-high-dimensional-time-series-forecasting)
-
 - [Zhang, M., & Chen, Y. (2019). Inductive matrix completion based on graph neural networks. arXiv preprint arXiv:1904.12058.](https://www.cse.wustl.edu/~ychen/public/ICLR.pdf)
 
 ### Transportation
