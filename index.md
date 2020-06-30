@@ -16,7 +16,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - May. 2020: A paper titled "Cross type transfer for deep reinforcement learning based hybrid electric vehicle energy management" has been accepted for publication in the [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105110&casa_token=J4-6SaCIRDYAAAAA:hVsxM8a5x_0I2h6fXApLBgnwfNZyUXlTb6307KX6mRNi8Io57K0TxYSiOZlOmWAbrWu9e0WMeA).
 
-- May. 2020: Dr. Wu gives a lecture on deep learning based spatio-temporal modeling for Chengdu Normal University.
+- May. 2020: Dr. Wu gives a [lecture](http://www.cdnu.edu.cn/dep_lgxy/contents/9330/96209.html) on deep learning based spatio-temporal modeling for Chengdu Normal University.
 
 - May. 2020: Two papers have been accepted by IEEE ITSC 2020.
 
