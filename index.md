@@ -10,6 +10,8 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 ## News
 
+- Jul. 2020: [Code](https://github.com/Kaimaoge/SUMO-DVSL) release for our paper "Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm".
+
 - Jun. 2020: [Code](https://github.com/lryz0612/Transfer_DRL_EMS) release for our paper "Cross type transfer for deep reinforcement learning based hybrid electric vehicle energy management". This project provides several examples on using python to model HEV powertrains. 
 
 - Jun. 2020: A paper titled "Inductive Graph Neural Networks for Spatiotemporal Kriging" has been posted in [Arxiv](https://arxiv.org/abs/2006.07527), the opensource code can be found in my [Github](https://github.com/Kaimaoge/IGNNK).
@@ -52,7 +54,7 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Wu, Y., Tan, H., Peng, J., Zhang, H., & He, H. (2019). Deep reinforcement learning of energy management with continuous control strategy and traffic information for a series-parallel plug-in hybrid electric bus. Applied Energy, 247, 454-466.
 
-- Wu, Y., Tan, H., Qin, L., & Ran, B. (2020). Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm. Transportation Research Part C: Emerging Technologies, 117, 102649.
+- Wu, Y., Tan, H., Qin, L., & Ran, B. (2020). Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm. Transportation Research Part C: Emerging Technologies, 117, 102649. [code](https://github.com/Kaimaoge/SUMO-DVSL)
 
 - Tan, H., Wu, Y., Shen, B., Jin, P. J., & Ran, B. (2016). Short-term traffic prediction based on dynamic tensor completion. IEEE Transactions on Intelligent Transportation Systems, 17(8), 2123-2133.
 
