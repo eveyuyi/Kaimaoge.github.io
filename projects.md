@@ -16,13 +16,13 @@ Large volumes of spatiotemporal data are increasingly collected and studied in m
 
 Cooperative intelligent freeway traffic control is an important application in intelligent transportation systems, which is expected to improve the mobility of freeway networks. We study how to achieve a cooperative control scheme of various traffic control strategies including ramp metering, differential variable speed limits and autonomous vehicle planning for improving traffic. However, the coordination of different traffic control approaches within one DRL framework is not an easy task. The first challenge is due to the difference between the control cycle of different agents. The second challenge stems from the difficulties in defining a representative reward signal for different traffic control agents. The third challenge lies in the modeling of the traffic state. We will explore a multi-agent learning based framework to handle those challenges.
 
-<div align="center"><img height="450" src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/KSGCN-min.jpg"/></div>
+<div align="center"><img height="500" src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/KSGCN-min.jpg"/></div>
 
 ### Learning-based Energy Management 
 
 Fossil Fuel, as the main energy source for the vast majority of transportation, is unfortunately the main consumer of energy as well as pollutant of environment. The combination usage of fossil fuel and eco friendly energy sources is a lucrative solution to this problem. Efficient energy management of hybrid energy transportation is challenging owning to its enormous search space, multitudinous control variables and complicated driving conditions. In recent years, the deep reinforcement learning (DRL) – reinforcement learning models equipped with deep neural networks have made it possible for agents to achieve high-level control for very complex problems such as Go and StarCraft.The goal of this research is to develop nove DRL agents for hybrid energy transportation, and achieve a more eco-friendly and fuel-economical transportation systems.
 
-<div align="center"><img height="450" src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/ems-min.jpg"/></div>
+<div align="center"><img height="350" src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/ems-min.jpg"/></div>
 
 
 
