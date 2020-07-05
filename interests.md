@@ -36,6 +36,10 @@ title: Interests
 
 - [Jiang, J., Dun, C., & Lu, Z. (2018). Graph convolutional reinforcement learning for multi-agent cooperation. arXiv preprint arXiv:1810.09202, 2(3).](https://z0ngqing.github.io/paper/preprint-jiechuan18.pdf)
 
+### Evolutionary computation
+
+- [Hansen, N., Müller, S. D., & Koumoutsakos, P. (2003). Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary computation, 11(1), 1-18.](https://www.mitpressjournals.org/doi/abs/10.1162/106365603321828970)
+
 ### Matrix/Tensor Factorization
 
 - [Zhang, M., & Chen, Y. (2019). Inductive matrix completion based on graph neural networks. arXiv preprint arXiv:1904.12058.](https://www.cse.wustl.edu/~ychen/public/ICLR.pdf)
