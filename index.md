@@ -10,6 +10,8 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 ## News
 
+- Jul. 2020: Our paper Multi-agent Graph Reinforcement Learning for Connected Automated Driving was accepted for the ICML workshop on AI for Autonomous Driving.
+
 - Jul. 2020: [Code](https://github.com/Kaimaoge/SUMO-DVSL) release for our paper "Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm".
 
 - Jun. 2020: [Code](https://github.com/lryz0612/Transfer_DRL_EMS) release for our paper "Cross type transfer for deep reinforcement learning based hybrid electric vehicle energy management". This project provides several examples on using python to model HEV powertrains. 
