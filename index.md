@@ -10,6 +10,8 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 ## News
 
+- Aug. 2020: Our manuscript entitled "Hybrid electric vehicle energy management with computer vision and deep reinforcement learning" has been accepted for publication in the IEEE Transactions on Industrial Informatics
+
 - Jul. 2020: We have shared the slides of Multi-agent Graph Reinforcement Learning on [slideslive](https://slideslive.com/38931756/multiagent-graph-reinforcement-learning-for-connected-automated-driving).
 
 - Jul. 2020: Our paper Multi-agent Graph Reinforcement Learning for Connected Automated Driving was accepted for the ICML workshop on AI for Autonomous Driving.
