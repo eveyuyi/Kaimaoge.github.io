@@ -4,57 +4,42 @@ permalink: /interests/index.html
 title: Interests
 ---
 
-## Philosophy
-- Alan watts: [life is purposelessness](https://www.youtube.com/watch?v=21RwqnB8GrE)
-- Principles by Ray Dalio
+## News
 
-## Cosmology
-- Seth Lloyd: The universe is a [quantum computer](https://www.youtube.com/watch?v=Qu6Mh2pX9OI)
+- Aug. 2020: Our manuscript entitled "Hybrid electric vehicle energy management with computer vision and deep reinforcement learning" has been accepted for publication in the IEEE Transactions on Industrial Informatics
 
-## Machine Learning
-- [No free lunch theory](https://link.springer.com/chapter/10.1007/978-1-4471-0123-9_3)
+- Jul. 2020: We have shared the slides of Multi-agent Graph Reinforcement Learning on [slideslive](https://slideslive.com/38931756/multiagent-graph-reinforcement-learning-for-connected-automated-driving).
 
-- [Evolutionary strategies for deep reinforcement learning](https://openai.com/blog/evolution-strategies/)
+- Jul. 2020: Our paper Multi-agent Graph Reinforcement Learning for Connected Automated Driving was accepted for the ICML workshop on AI for Autonomous Driving.
 
-## Reading Papers
+- Jul. 2020: [Code](https://github.com/Kaimaoge/SUMO-DVSL) release for our paper "Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm".
 
-### Variational Autoencoders
+- Jun. 2020: [Code](https://github.com/lryz0612/Transfer_DRL_EMS) release for our paper "Cross type transfer for deep reinforcement learning based hybrid electric vehicle energy management". This project provides several examples on using python to model HEV powertrains. 
 
-- [Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., ... & Lerchner, A. (2017). beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework. Iclr, 2(5), 6.](https://pdfs.semanticscholar.org/a902/26c41b79f8b06007609f39f82757073641e2.pdf)
+- Jun. 2020: A paper titled "Inductive Graph Neural Networks for Spatiotemporal Kriging" has been posted in [Arxiv](https://arxiv.org/abs/2006.07527), the opensource code can be found in my [Github](https://github.com/Kaimaoge/IGNNK).
 
-- [Doersch, C. (2016). Tutorial on variational autoencoders. arXiv preprint arXiv:1606.05908.](https://arxiv.org/pdf/1606.05908.pdf%20http://arxiv.org/abs/1606.05908.pdf)
+- May. 2020: A paper titled "Cross type transfer for deep reinforcement learning based hybrid electric vehicle energy management" has been accepted for publication in the [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105110&casa_token=J4-6SaCIRDYAAAAA:hVsxM8a5x_0I2h6fXApLBgnwfNZyUXlTb6307KX6mRNi8Io57K0TxYSiOZlOmWAbrWu9e0WMeA).
 
-### Graph Neural Networks
+- May. 2020: Dr. Wu gives a [lecture](http://www.cdnu.edu.cn/dep_lgxy/contents/9330/96209.html) on deep learning based spatio-temporal modeling for Chengdu Normal University.
 
-- [Ying, Z., You, J., Morris, C., Ren, X., Hamilton, W., & Leskovec, J. (2018). Hierarchical graph representation learning with differentiable pooling. In Advances in neural information processing systems (pp. 4800-4810).](http://papers.nips.cc/paper/7729-hierarchical-graph-representation-learning-with-differentiable-pooling.pdf)
+- May. 2020: Two papers have been accepted by IEEE ITSC 2020.
 
-- [Grover, A., & Leskovec, J. (2016, August). node2vec: Scalable feature learning for networks. In Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 855-864).](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)
+- Apr. 2020: A paper titled "Differential Variable Speed Limits Control for Freeway Recurrent Bottlenecks via Deep Actor-critic Algorithm" has been accepted for publication in [Transportation Research Part C](https://www.sciencedirect.com/science/article/pii/S0968090X20305647?dgcid=author).
 
-### Deep Reinforcement Learning
+- Mar. 2020: A paper titled "Traffic flow prediction with missing data imputed by tensor completion methods" has been accepted for publication in [IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9051806).
 
-- [Henderson, P., Islam, R., Bachman, P., Pineau, J., Precup, D., & Meger, D. (2018, April). Deep reinforcement learning that matters. In Thirty-Second AAAI Conference on Artificial Intelligence.](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16669)
+- Mar. 2020: The [code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle) for RIDRL based EMS has been opensourced. The code is developed by [Lian Renzong](https://github.com/lryz0612) and edited by me.
 
-- [Jiang, J., Dun, C., & Lu, Z. (2018). Graph convolutional reinforcement learning for multi-agent cooperation. arXiv preprint arXiv:1810.09202, 2(3).](https://z0ngqing.github.io/paper/preprint-jiechuan18.pdf)
+- Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted by journal [Energy](https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5). 
 
-### Evolutionary computation
+- Jan. 2020: I received a Postdoc Funding from The Institute for Data Valorization [(IVADO)](https://ivado.ca/en/ivado-scholarships/postdoctoral-scholarships/). I am now co-supervised by [Prof. Aurelie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html).
 
-- [Hansen, N., Müller, S. D., & Koumoutsakos, P. (2003). Reducing the time complexity of the derandomized evolution strategy with covariance matrix adaptation (CMA-ES). Evolutionary computation, 11(1), 1-18.](https://www.mitpressjournals.org/doi/abs/10.1162/106365603321828970)
+- Nov. 2019: My research with [Prof. Huachun Tan](https://tc.seu.edu.cn/2019/1022/c25722a291907/page.htm) on tensor factorization based traffic data processing is awarded by the Chinese Institute of Electronics [(CIE)](https://www.cie-info.org.cn/).
 
-### Matrix/Tensor Factorization
+- Oct. 2019: Dr. Wu gives a talk on control methods for connected & automated vehicle highway systems in Hunan University with [Dr. Fan Li's group](http://grjl.hnu.edu.cn/p/28AD870F5105F4BE7365891656C36677).
 
-- [Zhang, M., & Chen, Y. (2019). Inductive matrix completion based on graph neural networks. arXiv preprint arXiv:1904.12058.](https://www.cse.wustl.edu/~ychen/public/ICLR.pdf)
+- Oct. 2019: Our paper "Tensor-Based OD Matrix Completion" is acceptted for presnetation in Transportation Research Board 2020.
 
-### Transportation
-
-- [Han, K., Eve, G., & Friesz, T. L. (2019). Computing dynamic user equilibria on large-scale networks with software implementation. Networks and Spatial Economics, 19(3), 869-902.](https://link.springer.com/article/10.1007/s11067-018-9433-y)
-
-- [Varaiya, P. (2013). Max pressure control of a network of signalized intersections. Transportation Research Part C: Emerging Technologies, 36, 177-195.](https://www.sciencedirect.com/science/article/pii/S0968090X13001782?casa_token=THSepaiq7o4AAAAA:Z88qyMBES5RmF1QnpgOj01dXdoKrxfikri1v6fe0UKFZMHzcuiqoTph5oVlIIpcLLyfYosyVMcU)
-
-### Spatiotemporal data
-
-- [Jiang, Z. (2018). A survey on spatial prediction methods. IEEE Transactions on Knowledge and Data Engineering, 31(9), 1645-1664.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8444678)
-
-- [Lewenfus, G., Martins, W. A., Chatzinotas, S., & Ottersten, B. (2020). Joint Forecasting and Interpolation of Graph Signals Using Deep Learning. arXiv preprint arXiv:2006.01536.](https://arxiv.org/pdf/2006.01536.pdf)
   
 ## Visitors
 
