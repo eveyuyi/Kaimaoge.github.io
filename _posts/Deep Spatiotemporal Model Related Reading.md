@@ -46,4 +46,20 @@ Inductive learning setting can make the learned model adaptive to new/unseen sen
 
 ## Deep-time-series
 
+- [Salinas, D., Flunkert, V., Gasthaus, J., & Januschowski, T. (2020). DeepAR: Probabilistic forecasting with autoregressive recurrent networks. International Journal of Forecasting, 36(3), 1181-1191.](https://www.sciencedirect.com/science/article/pii/S0169207019301888)
+
+- [Rangapuram, S. S., Seeger, M. W., Gasthaus, J., Stella, L., Wang, Y., & Januschowski, T. (2018). Deep state space models for time series forecasting. In Advances in neural information processing systems (pp. 7785-7794).](http://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf)
+
 ## Tpp
+
+According to theoretical physicist, [reality is just a complex network of events onto which we project sequences of past, present and future](https://www.nature.com/articles/d41586-018-04558-7). Time series is fundamentally an aggregation of stochstically generated events. Temporal point process is a good way to model the event sequence.
+
+- [Shchur, O., Biloš, M., & Günnemann, S. (2019, September). Intensity-Free Learning of Temporal Point Processes. In International Conference on Learning Representations.](https://openreview.net/forum?id=HygOjhEYDH&noteId=lg3jmZS8JLL)
+
+- [Mei, H., & Eisner, J. M. (2017). The neural hawkes process: A neurally self-modulating multivariate point process. In Advances in Neural Information Processing Systems (pp. 6754-6764).](http://papers.nips.cc/paper/7252-the-neural-hawkes-process-a-neurally-self-modulating-multivariate-point-process.pdf)
+
+- [Du, N., Dai, H., Trivedi, R., Upadhyay, U., Gomez-Rodriguez, M., & Song, L. (2016, August). Recurrent marked temporal point processes: Embedding event history to vector. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1555-1564).](https://dl.acm.org/doi/pdf/10.1145/2939672.2939875?casa_token=vbgtERg8kiwAAAAA:dRyoO1HWQcuuL5XxGX1qRfYUFGma_FTi_ueT6nJzvYUi2WkghcMq_C9Px2kt4cDl3ldLvXhEdBcy)
+
+A great tutorial from Max Planck Ins0tute for Intelligent Systems
+
+[Learning with Temporal Point Process](http://learning.mpi-sws.org/tpp-icml18/)
