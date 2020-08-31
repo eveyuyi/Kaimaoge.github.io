@@ -32,11 +32,11 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Blog
+  - title: 杂货铺
     url: /Blogs/
   - title: Research
     url: /projects/
-  - title: Interest
+  - title: News
     url: /interests/
 
 
