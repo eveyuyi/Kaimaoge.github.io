@@ -7,7 +7,7 @@ This is [my](https://Kaimaoge.github.io/) paper reading list about deep learning
 - [General review on graph neural networks](##General-review-gnn)
 - [Graph Neural Networks for ST prediction](##Gnn-st-prediction)
 - [Inductive Graph Neural Networks](##Inductive-gnn)
-
+- [Deep Time Series Forecasting](##Deep-time-series)
 - [Temporal Point Process](##Tpp)
 
 ## General-review-gnn
@@ -35,5 +35,15 @@ Those works are mainly concentrated on traffic forecasting. Traffic forecasting 
 - [Li, Y., Yu, R., Shahabi, C., & Liu, Y. (2018, February). Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting. In International Conference on Learning Representations.](https://openreview.net/forum?id=SJiHXGWAZ&noteId=SJiHXGWAZ)
 
 ## Inductive-gnn
+
+Inductive learning setting can make the learned model adaptive to new/unseen sensors
+
+- [Zhang, Muhan, and Yixin Chen. "Inductive Matrix Completion Based on Graph Neural Networks." International Conference on Learning Representations. 2019.](https://openreview.net/forum?id=ByxxgCEYDS)
+
+- [Zeng, Hanqing, et al. "GraphSAINT: Graph Sampling Based Inductive Learning Method." International Conference on Learning Representations. 2019.](https://openreview.net/forum?id=BJe8pkHFwS)
+
+- [Hamilton, W., Ying, Z., & Leskovec, J. (2017). Inductive representation learning on large graphs. In Advances in neural information processing systems (pp. 1024-1034).](https://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
+
+## Deep-time-series
 
 ## Tpp
