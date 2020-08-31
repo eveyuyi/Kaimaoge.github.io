@@ -4,11 +4,11 @@ This is [my](https://Kaimaoge.github.io/) paper reading list about deep learning
 
 ## CONTENT
 
-- [General review on graph neural networks](## general-review-gnn)
-- [Graph Neural Networks for ST prediction](## gnn-st-prediction)
-- [Inductive Graph Neural Networks](## Inductive-gnn)
+- [General review on graph neural networks](##general-review-gnn)
+- [Graph Neural Networks for ST prediction](##gnn-st-prediction)
+- [Inductive Graph Neural Networks](##Inductive-gnn)
 
-- [Temporal Point Process](## Tpp)
+- [Temporal Point Process](##Tpp)
 
 ## general-review-gnn
 
