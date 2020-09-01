@@ -62,5 +62,5 @@ According to theoretical physicist, [reality is just a complex network of events
 
 A great tutorial from Max Planck Ins0tute for Intelligent Systems
 
-[Learning with Temporal Point Process](http://learning.mpi-sws.org/tpp-icml18/)
+- [Learning with Temporal Point Process](http://learning.mpi-sws.org/tpp-icml18/)
 
