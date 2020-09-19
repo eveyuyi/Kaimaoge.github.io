@@ -5,6 +5,7 @@ This is [my](https://Kaimaoge.github.io/) paper reading list about deep learning
 ## CONTENT
 
 - [General review on graph neural networks](##General-review-gnn)
+- [Interesting Graph Neural Networks Structure](##Gnn-structure)
 - [Graph Neural Networks for ST prediction](##Gnn-st-prediction)
 - [Inductive Graph Neural Networks](##Inductive-gnn)
 - [Deep Time Series Forecasting](##Deep-time-series)
@@ -21,6 +22,10 @@ Two survey papers that I always referred to
 - [Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2020). A comprehensive survey on graph neural networks. IEEE Transactions on Neural Networks and Learning Systems.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9046288&casa_token=VAeauroZgfoAAAAA:sR2hwdE8mD-Va_sWmPLWE2S-5zXSVVUHEnmNsXE6Mqblcs2t8ZDAlj6-jXHx4bpKPErrXN-D&tag=1)
 
 - [Zhou, J., Cui, G., Zhang, Z., Yang, C., Liu, Z., Wang, L., ... & Sun, M. (2018). Graph neural networks: A review of methods and applications. arXiv preprint arXiv:1812.08434.](https://arxiv.org/pdf/1812.08434.pdf?source=post_page---------------------------)
+
+## Gnn-structure
+
+- [Gao, Hongyang, and Shuiwang Ji. "Graph u-nets." arXiv preprint arXiv:1905.05178 (2019).](https://arxiv.org/pdf/1905.05178.pdf)
 
 ## Gnn-st-prediction
 
