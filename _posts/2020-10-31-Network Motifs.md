@@ -18,7 +18,7 @@ A connected graph that has many occurrences in a network is called a motif of th
 Example: triangle motif. In other words, motif is a connection pattern in a graph.
 
 <center>
-    <img style="border-radius: 0.2025em;
+    <img style="border-radius: 0.1225em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 6px 0 rgba(34,36,38,.08);" 
     src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/triangle.png">
     <br>
