@@ -11,7 +11,7 @@
     </script>
 </head>
 
-# Definition
+### Definition
 
 A connected graph that has many occurrences in a network is called a motif of the network. 
 
@@ -28,11 +28,11 @@ Example: triangle motif. In other words, motif is a connection pattern in a grap
     padding: 2px;">Figure １：A triangle motif in a graph</div>
 </center>
 
-# Discovery
+### Discovery
 
 Network motifs are characteristic sub-networks that appear more frequently than expected considering the degree distribution of a biological network. Motifs are of direct biological relevance. Network motif classification has shown that specific types of motifs perform specific biological functions. Originally identified in transcriptional regulatory networks in model organisms, motifs are now understood to be basic building blocks of biological networks. So the motifs are discovered from biological structures.
 
-# Applications
+### Applications
 
 Network motifs can be used for graph partition [1].
 
