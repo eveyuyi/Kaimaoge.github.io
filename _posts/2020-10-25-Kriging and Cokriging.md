@@ -23,10 +23,9 @@ In kriging, the weight $\lambda_n$ is calculated based on the spatial dependence
 For the estimated variogram model, the covariances are calculated based on the lag vector $h$ between observed locations and between an observed and unobserved location. The logic here is to use observed locations to estimate variogram, after that, we can get an estimated variogram for any given location since $h$ is the lag between two locations.
 
 
- Next, the weights of SK are assigned by multiplying the inverse of the former covariance matrix with the latter covariance matrix.
+ Next, the weights of Kriging model are assigned by multiplying the inverse of the former covariance matrix with the latter covariance matrix.
  
- \begin{equation}
-     \begin{bmatrix}
+ $    \begin{bmatrix}
    \lambda_1       \\[0.3em]
    \vdots \\[0.3em]
    \lambda_N
@@ -38,8 +37,7 @@ For the estimated variogram model, the covariances are calculated based on the l
   c_{s_1,s_0}       \\[0.3em]
    \vdots \\[0.3em]
   c_{s_1,s_N} 
-     \end{bmatrix},
- \end{equation}
+     \end{bmatrix},$
  
  where $c_{s_x,s_y} = Cov(Z(s_x), Z(s_y))$. $c_{s_x,s_0}$ can be computed by estimated variogram. Kriging can be viewed as a weighted $N$-nearest neighbor. The weights are determined by the variogram, variogram is a function on distance between two locations.
  
