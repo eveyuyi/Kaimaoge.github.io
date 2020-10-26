@@ -6,6 +6,8 @@ title: Interests
 
 ## News
 
+- Oct. 2020: A paper titled "Non-recurrent Traffic Congestion Detection with a Coupled Scalable Bayesian Robust Tensor Factorization Model" has been accepted by Neurocomputing.
+
 - Oct. 2020: A paper titled "Understanding and Modeling Urban Mobility Dynamics via Disentangled Representation Learning" has been accepted by T-ITS.
 
 - Sep. 2020: The [hybrid deep learning traffic flow prediction work](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies/most-cited-articles) has been ranked as one of TRC's top 3 most popular articles since 2017.
