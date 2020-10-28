@@ -123,7 +123,7 @@ Step 3: Kriging
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 4：Estimated variogram. </div>
+    padding: 2px;">Figure 4：Kriging results. </div>
 </center>
 
 The kriging results are more realistic than the ones of inverse weighted interpolation.
