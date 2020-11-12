@@ -83,7 +83,7 @@ The Wasserstein Distance $W(P_r, P_g)$ between two continues distribution $P_g$ 
 \begin{equation}
 W(P_r, P_g) = inf_{\gamma \sim \amalg(p_r, p_g)} E_{(x,y) \sim \gamma} (\parallel x -y \parallel)
 \end{equation}
-In the formula above, $\amalg(p_r, p_g)}$ is the set of all possible joint probability distributions between $p_r$ and $p_g$.
+In the formula above, $\amalg(p_r, p_g)$ is the set of all possible joint probability distributions between $p_r$ and $p_g$.
 
 To show the continues nature of Wasserstein Distance, [3] gives an example of learning parallel lines. In this example, $P_r$ is represented by $(0, Z) \in R^2$ with $Z \sim U(0, 1)$. $G_{\theta}(z) = (\theta, z)$. In other words, $P_g$ is represented by $(\theta, Z)$.
  
@@ -117,7 +117,7 @@ JS(P_r, P_g) =   \begin{cases}
 W(P_r, P_g) =  |\theta| 
 \end{equation}
 
-Obviously, Wasserstein Distance is the only continues one for this case. It is intractable to exhaust all the possible joint distributions in $\amalg(p_r, p_g)}$. Thus the authors proposed a smart transformation of the formula based on the Kantorovich-Rubinstein duality to:
+Obviously, Wasserstein Distance is the only continues one for this case. It is intractable to exhaust all the possible joint distributions in $\amalg(p_r, p_g)$. Thus the authors proposed a smart transformation of the formula based on the Kantorovich-Rubinstein duality to:
 \begin{equation}
 W(P_r, P_g) = \frac{1}{K}\sup_{\parallel f_l \parallel \leq K} (E_{x \in p_r} (f(x)) - E_{x \in p_g} (f(x))),
 \end{equation}
@@ -132,7 +132,10 @@ $f_\theta$ is a K-Lipschitz continuous function to help compute Wasserstein dist
 
 ## Reference
 [1] Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015).
+
 [2] Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014. 
+
 [3] Arjovsky, Martin, Soumith Chintala, and Léon Bottou. "Wasserstein gan." arXiv preprint arXiv:1701.07875 (2017).
+
 [4] Weng, Lilian. "From GAN to WGAN." arXiv preprint arXiv:1904.08994 (2019).
 
