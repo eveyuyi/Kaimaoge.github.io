@@ -19,7 +19,7 @@ Instead of directly finding $P_{\theta^\star}$, GAN uses a neural network $g_{\t
 generates samples following a certain distribution $P_{\theta}$. The input of $g_{\theta}$ is a random variable $Z$ with a fixed distribution $p(z)$. Through this approach, we can easily generate samples from a given distribution $p(z)$. $P_{r}$ can be represented by a low dimensional manifold. $z$ would have some semantic features.
 
 <center>
-    <img style="border-radius: 0.2em;
+    <img style="border-radius: 0.13em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 6px 0 rgba(34,36,38,.08);" 
     src="https://raw.githubusercontent.com/Kaimaoge/Kaimaoge.github.io/master/images/generator.png">
     <br>
@@ -56,7 +56,7 @@ For fixed $G$, the optimal $D^\star$ is $\frac{p_r}{p_r + p_g}$. Minimizing $L(G
 JS(P_r \parallel P_g) = \frac{1}{2} KL(P_r \parallel \frac{P_g + P_r}{2}) + \frac{1}{2} KL(P_g \parallel \frac{P_g + P_r}{2}).
 \end{equation}
 
-## Wasserstein GAN [3]
+## Wasserstein GAN
 
 KL and JS distances are measuring how close the model distribution $P_g$ and the real distribution $P_r$ are. The Wasserstein GAN [3] paper points out that the distances' impacts on the convergence of sequences of probability distributions. If the loss function defined upon the distances $d(P_g, P_r)$ is continuous, it is easier for GAN to converge.
 
@@ -68,6 +68,6 @@ A real-valued function $f:R \to R$ is called $K$-Lipschitz continuous if there e
 |f(x_1) - f(x_2)| \leq K|x_1 - x_2|.
 \end{equation}
 
-
+Wasserstein Distance is a measure of the distance between two probability distributions. It can be interpreted as the minimum energy cost of moving and transforming a pile of dirt in the shape of one probability distribution to the shape of the other distribution. 
  
 
