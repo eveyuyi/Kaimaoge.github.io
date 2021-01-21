@@ -18,6 +18,8 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 ## Selected Publications
 
+- Wu, Y., Zhuang, D., Labbe, A., & Sun, Li. 2021. Induc-tive graph neural networks for spatiotemporal kriging. In Proceedings of the AAAI Conference on Artificial Intelligence
+
 - Wu, Y., Tan, H., Qin, L., Ran, B., & Jiang, Z. (2018). A hybrid deep learning based traffic flow prediction method and its understanding. Transportation Research Part C: Emerging Technologies, 90, 166-180.
 
 - Wu, Y., Tan, H., Li, Y., Zhang, J., & Chen, X. (2018). A fused CP factorization method for incomplete tensors. IEEE transactions on neural networks and learning systems, 30(3), 751-764. [code](https://github.com/Kaimaoge/Tensor-decomposition-completion-and-recovery-papers-and-codes/tree/master/NonnegativeFCP)
