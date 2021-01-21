@@ -16,6 +16,8 @@ My research has focused on various machine learning technologies, e.g., tensor d
 
 - Connected & Automated Vehicle
 
+- Smart Urban
+
 ## Selected Publications
 
 - Wu, Y., Zhuang, D., Labbe, A., & Sun, Li. (2021). Inductive graph neural networks for spatiotemporal kriging. In Proceedings of the AAAI Conference on Artificial Intelligence. [code](https://github.com/Kaimaoge/IGNNK)
