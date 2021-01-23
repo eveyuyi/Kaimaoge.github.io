@@ -49,8 +49,8 @@ title: Selected Publications
   author={Wu, Yuankai and Zhuang, Dingyi and Labbe, Aurelie and Sun, Lijun},
   journal={arXiv preprint arXiv:2006.07527},
   year={2020}
-}</p>
-</details></pre>
+}</pre></p>
+</details>
       </td>
     </tr>
 	</tbody>
