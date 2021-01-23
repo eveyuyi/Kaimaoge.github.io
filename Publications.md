@@ -17,9 +17,8 @@ title: Selected Publications
 	<tbody>
     <tr id="wu2020inductive" class="entry">
           <td>
-        <!-- <img src="../pub_img/ignnk.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../pub_img/ignnk.png" width="600" class="research_img">
+          <img src="https://kaimaoge.github.io/pub_img/ignnk.PNG" width="600" class="research_img">
           <div class="container">
           GNN for Kriging
           </div>
