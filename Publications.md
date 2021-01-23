@@ -135,6 +135,47 @@ title: Selected Publications
 </details>
       </td>
     </tr>
+     <tr id="tan2016short" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="https://kaimaoge.github.io/pub_img/DTC.PNG" width="600" class="research_img">
+          <div class="container">
+          <center> <font size="1">Dynamic tensor for forecasting</font><br /> </center>
+          </div>
+        </div>
+      </td>
+          <td><font size="2">H. Tan, <strong>Y. Wu</strong>, B. Shen, P.J. Jin, B. Ran. </font> </td>
+      <td>
+       A Fused CP Factorization Method for Incomplete Tensors<br>
+                <p class="infolinks"> 
+                  <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
+                  [<a href="https://ieeexplore.ieee.org/abstract/document/7407622">Paper</a>]
+              </p>
+        </td>
+      <td>2016</td>
+          <td>IEEE transactions on Intelligent Transportation Systems</td>
+        </tr>
+        <tr id="abs_wu2020inductive" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
+		  Short-term traffic prediction plays a critical role in many important applications of intelligent transportation systems such as traffic congestion control and smart routing, and numerous methods have been proposed to address this issue in the literature. However, most, if not all, of them suffer from the inability to fully use the rich information in traffic data. In this paper, we present a novel short-term traffic flow prediction approach based on dynamic tensor completion (DTC), in which the traffic data are represented as a dynamic tensor pattern, which is able capture more information of traffic flow than traditional methods, namely, temporal variabilities, spatial characteristics, and multimode periodicity. A DTC algorithm is designed to use the multimode information to forecast traffic flow with a low-rank constraint. The proposed method is evaluated on real-world data sets and compared with other state-of-the-art methods, and the efficacy of the proposed approach is validated on the experiments of traffic flow prediction, particularly when dealing with incomplete traffic data. </p>
+</details>
+		  </div></td>
+        </tr>
+        <tr id="bib_wu2020inductive" class="bibtex noshow">
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
+                <pre>@ARTICLE{7407622,
+  author={H. {Tan} and Y. {Wu} and B. {Shen} and P. J. {Jin} and B. {Ran}},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Short-Term Traffic Prediction Based on Dynamic Tensor Completion}, 
+  year={2016},
+  volume={17},
+  number={8},
+  pages={2123-2133},
+  doi={10.1109/TITS.2015.2513411}
+  }</pre></p>
+</details>
+      </td>
+    </tr>
 	</tbody>
 </table>
 
