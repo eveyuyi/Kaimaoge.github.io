@@ -70,7 +70,7 @@ title: Selected Publications
                   [<a href="https://www.sciencedirect.com/science/article/pii/S0968090X18302651?casa_token=S9i_2E-eysgAAAAA:BB1qR2bgJBl0mYnZARG9XNUi41yknWZDmAkvvmVLKO2gpMQd0ZAAUt0IWpEthpIcopXO0UvUHifr">Paper</a>]
               </p>
         </td>
-      <td>2021</td>
+      <td>2018</td>
           <td>Transportation Research Part C</td>
         </tr>
         <tr id="abs_wu2020inductive" class="abstract noshow">
