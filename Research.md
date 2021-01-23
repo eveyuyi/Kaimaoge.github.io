@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /pub/index.html
-title: Selected Publications
+permalink: /research/index.html
+title: Published Researches
 ---
 
 ## Spatio-temporal data modeling 
