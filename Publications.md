@@ -20,7 +20,7 @@ title: Selected Publications
         <div class="polaroid">
           <img src="https://kaimaoge.github.io/pub_img/ignnk.PNG" width="600" class="research_img">
           <div class="container">
-          <font size="1">GNN for Kriging</font><br /> 
+          <center> <font size="1">GNN for Kriging</font><br /> </center>
           </div>
         </div>
       </td>
@@ -58,7 +58,7 @@ title: Selected Publications
         <div class="polaroid">
           <img src="https://kaimaoge.github.io/pub_img/TRC.jpg" width="600" class="research_img">
           <div class="container">
-          <font size="1">Hybrid CNN-RNN traffic forecastor</font><br /> 
+          <center> <font size="1">Hybrid CNN-RNN traffic forecastor</font><br /> </center>
           </div>
         </div>
       </td>
