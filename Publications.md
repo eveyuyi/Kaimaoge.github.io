@@ -21,7 +21,7 @@ title: Selected Publications
         <div class="polaroid">
           <img src="../pub_img/ignnk.png" width="600" class="research_img">
           <div class="container">
-          Inductive Graph Neural Networks for Spatiotemporal Kriging
+          GNN for Kriging
           </div>
         </div>
       </td>
