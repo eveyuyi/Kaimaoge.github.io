@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Pub/index.html
+permalink: /Publications/index.html
 title: Selected Publications
 ---
 
