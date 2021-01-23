@@ -56,7 +56,7 @@ title: Selected Publications
       <tr id="wu2018hybrid" class="entry">
           <td>
         <div class="polaroid">
-          <img src="https://kaimaoge.github.io/pub_img/ignnk.PNG" width="600" class="research_img">
+          <img src="https://kaimaoge.github.io/pub_img/TRC.jpg" width="600" class="research_img">
           <div class="container">
           Hybrid CNN-RNN traffic predictor
           </div>
