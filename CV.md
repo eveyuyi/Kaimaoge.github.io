@@ -4,4 +4,4 @@ permalink: /interests/index.html
 title: CV
 ---
 
-<embed src="https://kaimaoge.github.io/files/CV.pdf" type="application/pdf" height="330px"/>
+<embed src="https://github.com/Kaimaoge/Kaimaoge.github.io/blob/master/files/CV.pdf" type="application/pdf" height="330px"/>
