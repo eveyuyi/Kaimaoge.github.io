@@ -53,6 +53,46 @@ title: Selected Publications
 </details>
       </td>
     </tr>
+      <tr id="wu2018hybrid" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="https://kaimaoge.github.io/pub_img/ignnk.PNG" width="600" class="research_img">
+          <div class="container">
+          Hybrid CNN-RNN traffic predictor
+          </div>
+        </div>
+      </td>
+          <td><strong>Y. Wu</strong>, H. Tan, L. Qin, B. Ran, Z. Jiang.</td>
+      <td>
+        A hybrid deep learning based traffic flow prediction method and its understanding<br>
+                <p class="infolinks"> 
+                  <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
+                  [<a href="https://www.sciencedirect.com/science/article/pii/S0968090X18302651?casa_token=S9i_2E-eysgAAAAA:BB1qR2bgJBl0mYnZARG9XNUi41yknWZDmAkvvmVLKO2gpMQd0ZAAUt0IWpEthpIcopXO0UvUHifr">arXiv</a>]
+              </p>
+        </td>
+      <td>2021</td>
+          <td>Transportation Research Part C</td>
+        </tr>
+        <tr id="abs_wu2020inductive" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
+		  Deep neural networks (DNNs) have recently demonstrated the capability to predict traffic flow with big data. While existing DNN models can provide better performance than shallow models, it is still an open issue of making full use of spatial-temporal characteristics of the traffic flow to improve their performance. In addition, our understanding of them on traffic data remains limited. This paper proposes a DNN based traffic flow prediction model (DNN-BTF) to improve the prediction accuracy. The DNN-BTF model makes full use of weekly/daily periodicity and spatial-temporal characteristics of traffic flow. Inspired by recent work in machine learning, an attention based model was introduced that automatically learns to determine the importance of past traffic flow. The convolutional neural network was also used to mine the spatial features and the recurrent neural network to mine the temporal features of traffic flow. We also showed through visualization how DNN-BTF model understands traffic flow data and presents a challenge to conventional thinking about neural networks in the transportation field that neural networks is purely a “black-box” model. Data from open-access database PeMS was used to validate the proposed DNN-BTF model on a long-term horizon prediction task. Experimental results demonstrated that our method outperforms the state-of-the-art approaches. </p>
+</details>
+		  </div></td>
+        </tr>
+        <tr id="bib_wu2020inductive" class="bibtex noshow">
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
+                <pre>@article{wu2018hybrid,
+  title={A hybrid deep learning based traffic flow prediction method and its understanding},
+  author={Wu, Yuankai and Tan, Huachun and Qin, Lingqiao and Ran, Bin and Jiang, Zhuxi},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={90},
+  pages={166--180},
+  year={2018},
+  publisher={Elsevier}
+}</pre></p>
+</details>
+      </td>
+    </tr>
 	</tbody>
 </table>
 
