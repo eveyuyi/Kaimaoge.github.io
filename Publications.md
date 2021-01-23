@@ -29,7 +29,7 @@ title: Selected Publications
         Inductive Graph Neural Networks for Spatiotemporal Kriging<br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('wu2020inductive','abstract')">Abstract</a>]
-                  [<a href="javascript:toggleInfo('wu2020inductive','abstract')">BibTeX</a>] 
+                  [<a href="javascript:toggleInfo('wu2020inductive','bibtex')">BibTeX</a>] 
                   <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
                   [<a href="https://arxiv.org/pdf/2006.07527">arXiv</a>]
                   [<a href="https://github.com/Kaimaoge/IGNNK">code</a>]
