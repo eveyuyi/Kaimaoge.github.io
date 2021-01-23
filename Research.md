@@ -148,7 +148,7 @@ title: Published Researches
       </td>
           <td><font size="2">H. Tan, <strong>Y. Wu</strong>, B. Shen, P.J. Jin, B. Ran. </font> </td>
       <td>
-       A Fused CP Factorization Method for Incomplete Tensors<br>
+       Short-Term Traffic Prediction Based on Dynamic Tensor Completion<br>
                 <p class="infolinks"> 
                   <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
                   [<a href="https://ieeexplore.ieee.org/abstract/document/7407622">Paper</a>]
