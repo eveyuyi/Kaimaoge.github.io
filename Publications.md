@@ -28,8 +28,6 @@ title: Selected Publications
       <td>
         Inductive Graph Neural Networks for Spatiotemporal Kriging<br>
                 <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('wu2020inductive','abstract')">Abstract</a>]
-                  [<a href="javascript:toggleInfo('wu2020inductive','bibtex')">BibTeX</a>] 
                   <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
                   [<a href="https://arxiv.org/pdf/2006.07527">arXiv</a>]
                   [<a href="https://github.com/Kaimaoge/IGNNK">code</a>]
@@ -45,13 +43,14 @@ title: Selected Publications
 		  </div></td>
         </tr>
         <tr id="bib_wu2020inductive" class="bibtex noshow">
-          <td colspan="5"><b>BibTeX</b>:
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
                 <pre>@article{wu2020inductive,
   title={Inductive graph neural networks for spatiotemporal kriging},
   author={Wu, Yuankai and Zhuang, Dingyi and Labbe, Aurelie and Sun, Lijun},
   journal={arXiv preprint arXiv:2006.07527},
   year={2020}
-}</pre>
+}</p>
+</details></pre>
       </td>
     </tr>
 	</tbody>
