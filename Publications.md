@@ -24,7 +24,7 @@ title: Selected Publications
           </div>
         </div>
       </td>
-          <td><strong>Y. Wu</strong>, Zhuang, D, Labbe, A, & Sun, L.*</td>
+          <td> <font size="2"> <strong>Y. Wu</strong>, Zhuang, D, Labbe, A, & Sun, L.* </font></td>
       <td>
         Inductive Graph Neural Networks for Spatiotemporal Kriging<br>
                 <p class="infolinks"> 
@@ -62,7 +62,7 @@ title: Selected Publications
           </div>
         </div>
       </td>
-          <td><strong>Y. Wu</strong>, H. Tan, L. Qin, B. Ran, Z. Jiang.</td>
+          <td><font size="2"> <strong>Y. Wu</strong>, H. Tan, L. Qin, B. Ran, Z. Jiang. </font> </td>
       <td>
         A hybrid deep learning based traffic flow prediction method and its understanding<br>
                 <p class="infolinks"> 
@@ -90,6 +90,48 @@ title: Selected Publications
   year={2018},
   publisher={Elsevier}
 }</pre></p>
+</details>
+      </td>
+    </tr>
+    <tr id="wu2018fused" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="https://kaimaoge.github.io/pub_img/TNNLS.PNG" width="600" class="research_img">
+          <div class="container">
+          <center> <font size="1">Multi-mode features obtained from FCP</font><br /> </center>
+          </div>
+        </div>
+      </td>
+          <td><font size="2"> <strong>Y. Wu</strong>, H. Tan, Y. Li, J. Zhang, X. Chen </font> </td>
+      <td>
+       A Fused CP Factorization Method for Incomplete Tensors<br>
+                <p class="infolinks"> 
+                  <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
+                  [<a href="https://ieeexplore.ieee.org/abstract/document/8421043">Paper</a>]
+		  [<a href="https://github.com/Kaimaoge/Tensor-decomposition-completion-and-recovery-papers-and-codes/tree/master/NonnegativeFCP">Code</a>]
+              </p>
+        </td>
+      <td>2018</td>
+          <td>Transportation Research Part C</td>
+        </tr>
+        <tr id="abs_wu2020inductive" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
+		  Low-rank tensor completion methods have been advanced recently for modeling sparsely observed data with a multimode structure. However, low-rank priors may fail to interpret the model factors of general tensor objects. The most common method to address this drawback is to use regularizations together with the low-rank priors. However, due to the complex nature and diverse characteristics of real-world multiway data, the use of a single or a few regularizations remains far from efficient, and there are limited systematic experimental reports on the advantages of these regularizations for tensor completion. To fill these gaps, we propose a modified CP tensor factorization framework that fuses the l 2 norm constraint, sparseness (l 1 norm), manifold, and smooth information simultaneously. The factorization problem is addressed through a combination of Nesterov's optimal gradient descent method and block coordinate descent. Here, we construct a smooth approximation to the l 1 norm and TV norm regularizations, and then, the tensor factor is updated using the projected gradient method, where the step size is determined by the Lipschitz constant. Extensive experiments on simulation data, visual data completion, intelligent transportation systems, and GPS data of user involvement are conducted, and the efficiency of our method is confirmed by the results. Moreover, the obtained results reveal the characteristics of these commonly used regularizations for tensor completion in a certain sense and give experimental guidance concerning how to use them. </p>
+</details>
+		  </div></td>
+        </tr>
+        <tr id="bib_wu2020inductive" class="bibtex noshow">
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
+                <pre>@ARTICLE{8421043,
+  author={Y. {Wu} and H. {Tan} and Y. {Li} and J. {Zhang} and X. {Chen}},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={A Fused CP Factorization Method for Incomplete Tensors}, 
+  year={2019},
+  volume={30},
+  number={3},
+  pages={751-764},
+  doi={10.1109/TNNLS.2018.2851612}
+  }</pre></p>
 </details>
       </td>
     </tr>
