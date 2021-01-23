@@ -8,8 +8,8 @@ title: Selected Publications
     <thead>
 		<tr>
 			<th width="25%">Highlight</th>
-			<th width="18%">Authors</th>
-			<th width="35%">Title</th>
+			<th width="21%">Authors</th>
+			<th width="32%">Title</th>
 			<th width="2%">Year</th>
 			<th width="20%">Journal/Proceedings</th>
 		</tr>
