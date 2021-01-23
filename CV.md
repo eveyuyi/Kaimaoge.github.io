@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /interests/index.html
+permalink: /CV/index.html
 title: CV
 ---
 
