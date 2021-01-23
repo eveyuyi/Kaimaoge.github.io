@@ -67,7 +67,7 @@ title: Selected Publications
         A hybrid deep learning based traffic flow prediction method and its understanding<br>
                 <p class="infolinks"> 
                   <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
-                  [<a href="https://www.sciencedirect.com/science/article/pii/S0968090X18302651?casa_token=S9i_2E-eysgAAAAA:BB1qR2bgJBl0mYnZARG9XNUi41yknWZDmAkvvmVLKO2gpMQd0ZAAUt0IWpEthpIcopXO0UvUHifr">arXiv</a>]
+                  [<a href="https://www.sciencedirect.com/science/article/pii/S0968090X18302651?casa_token=S9i_2E-eysgAAAAA:BB1qR2bgJBl0mYnZARG9XNUi41yknWZDmAkvvmVLKO2gpMQd0ZAAUt0IWpEthpIcopXO0UvUHifr">Paper</a>]
               </p>
         </td>
       <td>2021</td>
