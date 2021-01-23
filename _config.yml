@@ -32,8 +32,8 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /pub/
+  - title: Research
+    url: /research/
   - title: News
     url: /interests/
   - title: CV
