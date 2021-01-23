@@ -112,7 +112,7 @@ title: Selected Publications
               </p>
         </td>
       <td>2018</td>
-          <td>Transportation Research Part C</td>
+          <td>IEEE transactions on neural networks and learning systems</td>
         </tr>
         <tr id="abs_wu2020inductive" class="abstract noshow">
           <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
