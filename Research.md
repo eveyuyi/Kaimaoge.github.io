@@ -181,7 +181,62 @@ title: Published Researches
 	</tbody>
 </table>
 
+## Data-driven ITS system control
 
+<table style="width:100%">
+    <thead>
+		<tr>
+			<th width="25%">Highlight</th>
+			<th width="21%">Authors</th>
+			<th width="32%">Title</th>
+			<th width="2%">Year</th>
+			<th width="20%">Journal/Proceedings</th>
+		</tr>
+    </thead>
+	<tbody>
+    <tr id="wu2020differential" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="https://kaimaoge.github.io/pub_img/DVSL.jpg" width="600" class="research_img">
+          <div class="container">
+          <center> <font size="1">Variable speed limits control as an MDP</font><br /> </center>
+          </div>
+        </div>
+      </td>
+          <td> <font size="2"><strong>Y. Wu</strong>, H. Tan, L. Qin, B. Ran* </font></td>
+      <td>
+        Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm<br>
+                <p class="infolinks"> 
+                  <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
+                  [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X20305647">Paper</a>]
+                  [<a href="https://github.com/Kaimaoge/SUMO-DVSL">code</a>]
+              </p>
+        </td>
+      <td>2020</td>
+          <td>Transportation Research Part C</td>
+        </tr>
+        <tr id="abs_wu2020inductive" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
+		  Variable speed limit (VSL) control is a flexible way to improve traffic conditions, increase safety, and reduce emissions. There is an emerging trend of using reinforcement learning methods for VSL control. Currently, deep learning is enabling reinforcement learning to develop autonomous control agents for problems that were previously intractable. In this paper, a more effective deep reinforcement learning (DRL) model is developed for differential variable speed limit (DVSL) control, in which dynamic and distinct speed limits among lanes can be imposed. The proposed DRL model uses a novel actor-critic architecture to learn a large number of discrete speed limits in a continuous action space. Different reward signals, such as total travel time, bottleneck speed, emergency braking, and vehicular emissions are used to train the DVSL controller, and a comparison between these reward signals is conducted. The proposed DRL-based DVSL controllers are tested on a freeway with a simulated recurrent bottleneck. The simulation results show that the DRL based DVSL control strategy is able to improve the safety, efficiency and environment-friendliness of the freeway. In order to verify whether the controller generalizes to real world implementation, we also evaluate the generalization of the controllers on environments with different driving behavior attributes. and the robustness of the DRL agent is observed from the results. </p>
+</details>
+		  </div></td>
+        </tr>
+     <tr id="bib_wu2020inductive" class="bibtex noshow">
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
+                <pre>@article{wu2020differential,
+  title={Differential variable speed limits control for freeway recurrent bottlenecks via deep actor-critic algorithm},
+  author={Wu, Yuankai and Tan, Huachun and Qin, Lingqiao and Ran, Bin},
+  journal={Transportation research part C: emerging technologies},
+  volume={117},
+  pages={102649},
+  year={2020},
+  publisher={Elsevier}
+}</pre></p>
+</details>
+      </td>
+    </tr>
+	</tbody>
+</table>
 
 
 
