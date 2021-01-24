@@ -235,6 +235,46 @@ title: Published Researches
 </details>
       </td>
     </tr>
+    <tr id="wu2019deep" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="https://kaimaoge.github.io/pub_img/energy.jpg" width="600" class="research_img">
+          <div class="container">
+          <center> <font size="1">HEV EMS as an MDP</font><br /> </center>
+          </div>
+        </div>
+      </td>
+          <td> <font size="2"><strong>Y. Wu</strong>, H. Tan, J. Peng, H. Zhang, H. He </font></td>
+      <td>
+        Deep reinforcement learning of energy management with continuous control strategy and traffic information for a series-parallel plug-in hybrid electric bus<br>
+                <p class="infolinks"> 
+                  <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
+                  [<a href="https://www.sciencedirect.com/science/article/pii/S030626191930652X?casa_token=AxGfRLIxX4QAAAAA:MARubarawwfJ3sM2sxJWcx14cmpzpSmp5B8Qv0Ngl2DRJInFGes_GOgns-J3R98ZwYjC0YM32hDB">Paper</a>]
+              </p>
+        </td>
+      <td>2019</td>
+          <td>Applied Energy</td>
+        </tr>
+        <tr id="abs_wu2020inductive" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
+		  Hybrid electric vehicles offer an immediate solution for emissions reduction and fuel displacement under the current technique level. Energy management strategies are critical for improving fuel economy of hybrid electric vehicles. In this paper we propose a energy management strategy for a series-parallel plug-in hybrid electric bus based on deep deterministic policy gradients. Specifically, deep deterministic policy gradients is an actor-critic, model-free reinforcement learning algorithm that can assign the optimal energy split of the bus over continuous spaces. We consider that the buses are driving in a fixed bus line, where driving cycle is constrained by the traffic. The traffic information and number of passengers are also incorporated into the energy management system. The deep reinforcement learning based energy management agent is trained with a large amount of driving cycles that generated from traffic simulation. Experiments on the traffic simulation driving cycles show that the proposed approach outperforms conventional reinforcement learning approach and exhibits performance close to the global optimal dynamic programming. Moreover, it also has great generality to the standard driving cycles that are significantly different with the ones that it has been trained with. We also show some interesting attributes of learned energy management strategies through visualizations of the actor and critic. The main contribution of this study is to explore the incorporation of traffic information within hybrid electric vehicle energy managment through advanced intelligent algorithms. </p>
+</details>
+		  </div></td>
+        </tr>
+     <tr id="bib_wu2020inductive" class="bibtex noshow">
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
+                <pre>@article{wu2019deep,
+  title={Deep reinforcement learning of energy management with continuous control strategy and traffic information for a series-parallel plug-in hybrid electric bus},
+  author={Wu, Yuankai and Tan, Huachun and Peng, Jiankun and Zhang, Hailong and He, Hongwen},
+  journal={Applied energy},
+  volume={247},
+  pages={454--466},
+  year={2019},
+  publisher={Elsevier}
+}</pre></p>
+</details>
+      </td>
+    </tr>
 	</tbody>
 </table>
 
