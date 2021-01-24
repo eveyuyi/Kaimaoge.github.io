@@ -137,6 +137,47 @@ title: Published Researches
 </details>
       </td>
     </tr>
+         <tr id="zhang2020understanding" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="https://kaimaoge.github.io/pub_img/dr.PNG" width="600" class="research_img">
+          <div class="container">
+          <center> <font size="1">Disentangled representation of urban mobility data</font><br /> </center>
+          </div>
+        </div>
+      </td>
+          <td><font size="2">H. Zhang, <strong>Y. Wu*</strong>,, H. Tan, H. Dong, F. Ding, B. Ran </font> </td>
+      <td>
+       Understanding and Modeling Urban Mobility Dynamics via Disentangled Representation Learning<br>
+                <p class="infolinks"> 
+                  <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
+                  [<a href="https://ieeexplore.ieee.org/abstract/document/9239884?casa_token=GHlSjX7JudcAAAAA:F83HoixincVTNerTyVjcuhVY9su7hDQvUPS93xmzsrIghhRBeFeyUlPcs3RFdyMCjpy51I_lM4M">Paper</a>]
+              </p>
+        </td>
+      <td>2020</td>
+          <td>IEEE transactions on Intelligent Transportation Systems</td>
+        </tr>
+        <tr id="abs_wu2020inductive" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
+		  Understanding the underlying patterns of the urban mobility dynamics is essential for both the traffic state estimation and management of urban facilities and services. Due to the coupling relationship of generative factors in spatial-temporal domain, it is challenging to model the citywide traffic dynamics under a structural pattern of critical features such as hours of days, days of weeks and weather conditions. To address this challenge, this article develops a disentangled representation learning framework to learn an interpretable factorized representation of the independent data generative factors. In order to make full use of the knowledge on generative factors, this article proposes spatial-temporal generative adversarial network (ST-GAN) to assign the generative factors of traffic flow to the feature vector in latent space and reconstructs the high-dimensional citywide traffic flow from the given factors. With the help of the disentangled representations, the decomposed feature vector in latent space discloses the relationship between underlying patterns and citywide traffic dynamics. Several comprehensively experiments show that ST-GAN not only effectively improves the prediction accuracy but also promisingly characterize structural properties of the traffic evolution process. </p>
+</details>
+		  </div></td>
+        </tr>
+        <tr id="bib_wu2020inductive" class="bibtex noshow">
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
+                <pre>@ARTICLE{9239884,
+  author={H. {Zhang} and Y. {Wu} and H. {Tan} and H. {Dong} and F. {Ding} and B. {Ran}},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Understanding and Modeling Urban Mobility Dynamics via Disentangled Representation Learning}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TITS.2020.3030259}
+  }</pre></p>
+</details>
+      </td>
+    </tr>
      <tr id="tan2016short" class="entry">
           <td>
         <div class="polaroid">
