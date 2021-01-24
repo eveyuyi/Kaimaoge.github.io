@@ -318,6 +318,47 @@ title: Published Researches
 </details>
       </td>
     </tr>
+            <tr id="wang2020hybrid" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="https://kaimaoge.github.io/pub_img/CV_EMS.PNG" width="600" class="research_img">
+          <div class="container">
+          <center> <font size="1">HEV EMS combined with CV and DRL</font><br /> </center>
+          </div>
+        </div>
+      </td>
+          <td> <font size="2">Y. Wang, H. Tan, <strong>Y. Wu*</strong>, J. Peng  </font></td>
+      <td>
+       Hybrid electric vehicle energy management with computer vision and deep reinforcement learning <br>
+                <p class="infolinks"> 
+                  <!-- [<a href="https://arxiv.org/pdf/2006.07527.pdf">PDF</a>] -->
+                  [<a href="https://ieeexplore.ieee.org/abstract/document/9165215?casa_token=ePPo5pWS7T8AAAAA:9DvyFYAyeNx9tYloHjbJz-B3buNQ6qE3D5dGE0zzdVWbDMxc66MmHkSx0ZAB2xAxeoqLRPSGT_E">Paper</a>]
+              </p>
+        </td>
+      <td>2020</td>
+          <td>IEEE Transactions on Industrial Informatics</td>
+        </tr>
+        <tr id="abs_wu2020inductive" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <details><summary><b>Abstract</b>:</summary> <p>
+		  Modern automotive systems have equipped with a highly increasing number of computer vision hardware/softwares, which are considered to be beneficial for eco-driving. This work combines computer vision and deep reinforcement learning to improve the fuel economy of hybrid electric vehicles. The convolutional neural networks-based object detection method is utilized to extract available visual information from on-board cameras. The visual information is used as a state input for a continuous deep reinforcement learning model to output energy management strategies. In order to evaluate the proposed method, we construct 100 kilometers real city and highway driving cycles, in which visual information is incorporated. The results show that the deep reinforcement learning based system with visual information consumes 4.3% to 8.8% less fuel compared with the one without visual information, and achieves 96.5% fuel economy of the dynamic programming. </p>
+</details>
+		  </div></td>
+        </tr>
+     <tr id="bib_wu2020inductive" class="bibtex noshow">
+          <td colspan="5"><details><summary><b>Bibtex</b>:</summary> <p>
+                <pre>@ARTICLE{9165215,
+  author={Y. {Wang} and H. {Tan} and Y. {Wu} and J. {Peng}},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Hybrid electric vehicle energy management with computer vision and deep reinforcement learning}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TII.2020.3015748}
+  }</pre></p>
+</details>
+      </td>
+    </tr>
 	</tbody>
 </table>
 
