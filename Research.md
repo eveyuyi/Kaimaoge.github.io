@@ -238,7 +238,7 @@ title: Published Researches
     <tr id="wu2019deep" class="entry">
           <td>
         <div class="polaroid">
-          <img src="https://kaimaoge.github.io/pub_img/energy.jpg" width="600" class="research_img">
+          <img src="https://kaimaoge.github.io/pub_img/Energy.jpg" width="600" class="research_img">
           <div class="container">
           <center> <font size="1">HEV EMS as an MDP</font><br /> </center>
           </div>
